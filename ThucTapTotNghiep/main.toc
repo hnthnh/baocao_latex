@@ -1,0 +1,30 @@
+\contentsline {paragraph}{}{i}{}%
+\contentsline {paragraph}{}{i}{}%
+\contentsline {paragraph}{}{i}{}%
+\contentsline {paragraph}{}{i}{}%
+\contentsline {paragraph}{}{i}{}%
+\contentsline {paragraph}{}{ii}{}%
+\contentsline {paragraph}{}{ii}{}%
+\contentsline {paragraph}{}{ii}{}%
+\contentsline {paragraph}{}{iv}{}%
+\contentsline {section}{LỜI CẢM ƠN}{1}{}%
+\contentsline {section}{CHƯƠNG 1: MỤC ĐÍCH}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {section}{CHƯƠNG 2: ĐẶC TẢ HỆ THỐNG}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Hoạt động thuê phòng – trả phòng}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Đăng kí sử dụng dịch vụ}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Lập báo cáo:}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {section}{CHƯƠNG 3: PHÂN TÍCH HỆ THỐNG}{5}{}%
+\contentsline {subsection}{\numberline {3.4} Mô hình use case }{5}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Use case đăng nhập}{5}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Use case lập hóa đơn đặt phòng}{6}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}Use case lập hoá đơn dịch vụ}{7}{}%
+\contentsline {subsubsection}{\numberline {3.4.4}Usecase thống kê doanh thu}{8}{}%
+\contentsline {subsubsection}{\numberline {3.4.5}Usecase quản lý kinh doanh}{9}{}%
+\contentsline {subsubsection}{\numberline {3.4.6}Usecase quản lý kinh doanh}{10}{}%
+\contentsline {subsubsection}{\numberline {3.4.7}Use case quản lý khách hàng }{11}{}%
+\contentsline {subsubsection}{\numberline {3.4.8}Use case quản lý hóa đơn }{12}{}%
+\contentsline {subsection}{\numberline {3.5}Các yêu cầu chức năng của hệ thống:}{13}{}%
+\contentsline {subsection}{\numberline {3.6}Các yêu cầu phi chức năng của hệ thống:}{13}{}%

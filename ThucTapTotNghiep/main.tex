@@ -1,0 +1,381 @@
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{pifont}
+\usepackage[left=3.5cm,right=2cm,top=3.5cm,bottom=3cm]{geometry}
+\graphicspath{ {./images/} }
+\makeatletter
+\renewcommand{\tableofcontents}{%
+	\@starttoc{toc}%
+}
+\makeatother
+\begin{document}
+\include{cover_page}	
+\include{title_page}
+\include{camdoan_page}
+\include{camon_page}
+ %------------------------------------------------------------
+	%|							PAGE ii							|
+	%------------------------------------------------------------
+	\begin{center}
+		\setstretch{1.0}
+		\fontsize{16}{20}\selectfont
+		\textbf{ĐỒ ÁN ĐƯỢC HOÀN THÀNH}\\
+		\textbf{TẠI TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG\\} 
+	\end{center}
+	\setstretch{1.5}
+	\fontsize{13}{13}\selectfont
+	\paragraph{}
+	Tôi xin cam đoan đây là sản phẩm đồ án của riêng chúng tôi và được sự hướng dẫn của thầy Dương Hữu Phúc;. Các nội dung nghiên cứu, kết quả trong đề tài này là trung thực và chưa công bố dưới bất kỳ hình thức nào trước đây. Những số liệu trong các bảng biểu phục vụ cho việc phân tích, nhận xét, đánh giá được chính tác giả thu thập từ các nguồn khác nhau có ghi rõ trong phần tài liệu tham khảo.
+	\paragraph{}
+	Ngoài ra, trong đồ án còn sử dụng một số nhận xét, đánh giá cũng như số liệu của các tác giả khác, cơ quan tổ chức khác đều có trích dẫn và chú thích nguồn gốc.
+	\paragraph{}
+	\textbf{Nếu phát hiện có bất kỳ sự gian lận nào chúng tôi xin hoàn toàn chịu trách nhiệm về nội dung đồ án của mình.} Trường đại học Tôn Đức Thắng không liên quan đến những vi phạm tác quyền, bản quyền do tôi gây ra trong quá trình thực hiện (nếu có).
+	\begin{flushright}
+		TP. Hồ Chí Minh,  ngày   tháng   năm   \\ 
+		\textit{Tác giả\\
+			(ký tên và ghi rõ họ tên)\\
+			\vspace{1.5cm}
+			Lương Gia Hân\\
+			\vspace{1.5cm}
+			Trần Gia Thái\\
+			\vspace{1.5cm}}
+	\end{flushright}
+	\pagebreak
+	
+	%------------------------------------------------------------
+	%|						PAGE iii							|
+	%------------------------------------------------------------
+	\begin{center}
+		\setstretch{1.0}
+		\fontsize{16}{20}\selectfont
+		\textbf{PHẦN NHẬN XÉT VÀ ĐÁNH GIÁ CỦA GIẢNG VIÊN}\\
+	\end{center}
+	\setstretch{1.5}
+	\fontsize{13}{13}\selectfont
+	\textbf{Phần xác nhận của GV hướng dẫn}\\
+	................................................................................................................................\\
+	................................................................................................................................\\
+	................................................................................................................................\\
+	................................................................................................................................\\
+	................................................................................................................................\\
+	\begin{flushright}
+		TP. Hồ Chí Minh,  ngày   tháng   năm   \\ 
+		(ký tên và ghi rõ họ tên)\\
+		\vspace{3cm}
+	\end{flushright}
+	\setstretch{1.5}
+	\fontsize{13}{13}\selectfont
+	\textbf{Phần đánh giá của GV chấm bài}\\
+	................................................................................................................................\\
+	................................................................................................................................\\
+	................................................................................................................................\\
+	................................................................................................................................\\
+	................................................................................................................................\\
+	\begin{flushright}
+		TP. Hồ Chí Minh,  ngày   tháng   năm   \\ 
+		(ký tên và ghi rõ họ tên)\\
+		\vspace{3cm}
+	\end{flushright}
+	\pagebreak
+	
+	%------------------------------------------------------------
+	%|							PAGE iv							|
+	%------------------------------------------------------------
+	\begin{center}
+		\fontsize{16}{20}\selectfont
+		\textbf{TÓM TẮT\\} 
+	\end{center}
+	\setstretch{1.5}
+	\fontsize{13}{13}\selectfont
+	\paragraph{}
+	Trong thời buổi hiện nay, CNTT không chỉ là phương tiện hỗ  trợ cho cuộc sống, nhu cầu cá nhân mà còn được xem như thước đo về sự phát triển của bất kì một tổ chức, quốc gia nào. Việc triển khai các hệ thống quản lý giúp gia tăng năng suất hoạt động một cách hiệu quả, giảm thiểu  tối đa tình trạng sai sót do ảnh hưởng về mặt tâm sinh lý con người. Tuy nhiên, hiện vẫn không ít các khách sạn vừa và nhỏ chỉ thực hiện công việc quản lý khách sạn thủ công. Do đó, đồ án này được thiết kế nhằm tối ưu hóa các công việc thủ công lặp đi lặp lại, tránh tình trạng sai sót và thiếu chính xác trong vấn đề quản lý khách sạn.
+	
+	\pagebreak
+	
+	%------------------------------------------------------------
+	%|					TABLEOFCONTENT PAGE						|
+	%------------------------------------------------------------
+	\begin{center}
+		\pagenumbering{arabic}\setcounter{page}{1}
+		\fontsize{16}{20}\selectfont
+		\textbf{MỤC LỤC\\} 
+		
+	\end{center}
+	\setstretch{1.5}
+	\fontsize{13}{13}\selectfont
+	\tableofcontents
+	\addcontentsline{toc}{section}{LỜI CẢM ƠN}
+	
+	
+	
+	
+	
+	\pagebreak
+	%------------------------------------------------------------
+	%|					CHAPTER 1						|
+	%------------------------------------------------------------
+	\begin{center}
+		\pagenumbering{arabic}\setcounter{page}{2}
+	\end{center}
+	
+	\begin{flushleft}
+		
+		\fontsize{16}{20}\selectfont
+		\section*{CHƯƠNG 1: MỤC ĐÍCH}
+		\addcontentsline{toc}{section}{CHƯƠNG 1: MỤC ĐÍCH}
+		\fontsize{13}{13}\selectfont
+		\paragraph{}
+        Hệ thống được thiết kế cho các khách sạn vừa và nhỏ nên chỉ tập trung khai thác và xử lý các vấn đề như tạo hóa đơn, chỉnh sửa thông tin hóa đơn, quản lý KH, quản lý nhân viên, v.v . Những công việc trên hoàn toàn có thể làm thủ công. Tuy vậy, việc đó dễ gây ra sao sót ảnh hưởng tới doanh thu của khách sạn và một số vấn đề liên quan. Việc xây dựng hệ thống quản lý khách sạn tạo ra một form mẫu cho các công viêc lặp đi lặp, từ đó người sử dụng dễ dàng tiếp cận làm quen nhanh chóng và người được phân quyền cao dễ dàng quản lý.Phạm vi: Ứng dụng cho các mô hình khách sạn vừa và nhỏ.
+	\pagebreak
+		\begin{itemize}
+			\item[-] Xây dựng hệ thống quản lý khách sạn bao gồm các bước:
+			\begin{itemize}
+				\item[+]Khảo sát nhu cầu người dùng.
+				\item[+]Phân tích hệ thống.
+				\item[+]Mô hình hóa hệ thống bằng các sơ đồ cụ thể.
+				\item[+]Thiết kế các chức năng của hệ thống.
+			\end{itemize}
+		\end{itemize}	
+			\begin{itemize}
+			\item[-]Hệ thống gồm có các chức năng sau:
+			\begin{itemize}
+				\item[+]Quản lý phòng và các dịch vụ tương ứng.
+				\item[+]Quản lý khách hàng.
+				\item[+]Lập hóa đơn.
+				\item[+]Thanh toán hóa đơn.
+				\item[+]Thống kê doanh thu định kì.
+				\item[+]Quản lý nhân sự.
+			\end{itemize}
+		\end{itemize}	
+		
+		\fontsize{16}{20}\selectfont
+		\section*{CHƯƠNG 2: ĐẶC TẢ HỆ THỐNG}
+		\addcontentsline{toc}{section}{CHƯƠNG 2: ĐẶC TẢ HỆ THỐNG}
+		\fontsize{14}{20}\selectfont
+		\setcounter{section}{2}
+		\subsection{Hoạt động thuê phòng – trả phòng}
+		\fontsize{13}{13}\selectfont
+		\begin{itemize}
+		
+			\item[-] KH khi có nhu cầu thuê phòng sẽ báo với lễ tân. Sau khi kiểm tra phòng trống theo yêu cầu của KH, lễ tân thực hiện thao tác lập hóa đơn bao gồm thu thập các thông tin như họ tên KH, mail, sdt để tạo mã số KH và điền vào hóa đơn theo mẫu có sẵn. Có thể bổ sung các dịch vụ cần sử dụng trong quá trình lập hóa đơn cũng như sau khi đã xuất hóa đơn. 
+			\item[-] Lễ tân cập nhật các hóa đơn đã lập thành công vào hệ thống. Hệ thống xác nhận và cập nhật tình trạng phòng trống để hiển thị ra danh sách phòng. Tiến hành thủ tục check-in và nhận thanh toán bằng tiện mặt hoặc chuyển khoản.
+			\item[-]Khi thực hiện thủ tục check-out trả phòng, lễ tân kiểm tra lại tình trạng thanh toán của hóa đơn, cập nhật lại tình trạng phòng trống cho lần thuê sau.
+			\item[-]Thông tin KH cần được lưu trữ cho lần thuê phòng tiếp theo.
+			\item[-]Trường hợp KH gọi dt để đặt phòng, có thể dùng lại quy trình này để đặt phòng cho KH.
+			
+		\end{itemize}
+		
+		\fontsize{14}{20}\selectfont
+		\subsection{Đăng kí sử dụng dịch vụ}
+		\fontsize{13}{20}\selectfont
+		\paragraph{}
+       KH có thể lựa chọn dịch vụ theo nhu cầu trong thời gian lập hóa đơn hoặc trong thời gian sử dụng phòng. Nếu KH chọn sử dụng dịch vụ trong lúc lập hóa đơn, hóa đơn dịch vụ sẽ tính chung với hóa đơn phòng. Nếu KH muốn sử dụng thêm dịch vụ trong thời gian sử dụng phòng, lễ tân sẽ cập nhật hóa đơn dịch vụ của KH đó, xác định số nợ chưa thanh toán trước, cộng dồn với số dịch vụ vừa đăng kí thêm và in ra hóa đơn dịch vụ.
+		
+		\fontsize{14}{20}\selectfont
+		\subsection{Lập báo cáo:}
+		\fontsize{13}{20}\selectfont
+	    \paragraph{}
+       KH có thể lựa chọn dịch vụ theo nhu cầu trong thời gian lập hóa đơn hoặc trong thời gian sử dụng phòng. Nếu KH chọn sử dụng dịch vụ trong lúc lập hóa đơn, hóa đơn dịch vụ sẽ tính chung với hóa đơn phòng. Nếu KH muốn sử dụng thêm dịch vụ trong thời gian sử dụng phòng, lễ tân sẽ cập nhật hóa đơn dịch vụ của KH đó, xác định số nợ chưa thanh toán trước, cộng dồn với số dịch vụ vừa đăng kí thêm và in ra hóa đơn dịch vụ.
+		
+		\fontsize{14}{20}\selectfont
+		
+		\section*{CHƯƠNG 3: PHÂN TÍCH HỆ THỐNG}
+		\addcontentsline{toc}{section}{CHƯƠNG 3: PHÂN TÍCH HỆ THỐNG}
+		\fontsize{14}{20}\selectfont
+		\setcounter{section}{3}
+		\subsection{ Mô hình use case }
+	
+		
+		\fontsize{14}{20}\selectfont
+		\subsubsection{Use case đăng nhập}
+		\fontsize{13}{13}\selectfont
+
+		\begin{table}[h!]
+		\centering
+			\begin{tabular}{|l|l|}
+				\hline
+				Tên Use case            & UC Đăng nhập\\ \hline
+				Tác nhân:            & Lễ tân, quản lý, kế toán \\ \hline
+				Kích hoạt     &Người dùng nhấn nút đăng nhập \\ \hline
+		    	Mô tả   & Use case này mô tả quy trình đăng nhập vào hệ thống. \\ \hline
+				Điều kiện tiên qyết       & Là nhân viên thuộc quản lý của khách sạn.\\& Đã được cấp mã số và mật khẩu có trong CSDL.\\ & Thiết bị dùng để đăng nhập có kết nối vào mạng nôi bộ.\\ \hline
+				Flow of event        & \begin{tabular}[c]{@{}l@{}}Actors:\\ Người dùng nhập thông tin đăng nhập gồm mã số và mật khẩu đã được cấp từ trước và nhấn vào nút “Đăng nhập”.\\  System:\\ Nếu thiết bị có kết nối vào mạng nội bộ, hệ thống thực hiện thao tác kiểm tra mã số và mật khẩu nhận được từ giao diện người dùng. Nếu kiểm tra mã số và mật khẩu trùng khớp với CSDL, hệ thống sẽ chuyển sang trang làm việc theo đúng phân quyền của người dùng đó.\end{tabular} \\ \hline
+				Luồng thay thế       & Thiết bị đăng nhập không kết nối vào mạng nội bộ.\\&Người dùng để trống một trong hai ô mã số hoặc mật khẩu và ấn đăng nhập, hệ thống hiển thị thông báo yêu cầu nhập đủ thông tin đăng nhập. Nếu quá số lần quy định hệ thống tự ngắt kết nối với thiết bị đó.\\&Người dùng để trống cả mã số và mật khẩu đăng nhập và ấn đăng nhập, hệ thống hiển thị thông báo yêu cầu nhập đủ thông tin đăng nhập. Nếu quá số lần quy định hệ thống từ ngắt kết nối với thiết bị đó.\\.\\&Người dùng nhập đủ cả 2 ô nhưng nhập sai một trong hai ô mã số hoặc mật khẩu, hệ thống hiển thị thông báo yêu cầu nhập lại ô bị sai so với CSDL. Nếu quá số lần quy định hệ thống tự khóa tài khoản đó và ngắt kết nối với thiết bị dùng để đăng nhập đó.\\ \hline
+				Điều kiện sau \\ &Hiển thị thông báo đăng nhập thành công và chuyển đến trang làm việc đúng theo phân quyền của nhân viên vừa đăng nhập.\\ \hline
+				Điều kiện thoát       & Người dùng đăng nhập thành công và hệ thống chuyển qua trang làm việc theo đúng phân quyền của người dùng đó.\\&Người dùng không thực hiện theo thông báo nhập thông tin đầy đủ quá số lần quy định và bị ngắt kết nối vào mạng nội bộ.\\ &Người dùng không thực hiện theo thông báo nhập sai thông tin quá số lần quy định và bị ngắt kết nối vào mạng nội bộ.\\ &Thiết bị dùng để đăng nhập không có kết nối vào mạng nội bộ..\\ \hline
+			\end{tabular}
+			\caption{Usecase đăng nhập}
+			\label{table}
+		\end{table} 
+		\pagebreak
+		
+		\subsubsection{Use case lập hóa đơn đặt phòng}
+		
+			\begin{table}[h!]
+		\centering
+			\begin{tabular}{|l|l|}
+				\hline
+				Tên Use case            & Lập hóa đơn đặt phòng\\ \hline
+				Tác nhân:            & Lễ tân \\ \hline
+				Kích hoạt     &Người dùng nhấn nút “Lập hóa đơn”. \\ \hline
+		    	Mô tả   & Người dùng chọn mục lập hóa đơn và nhập đầy đủ thông khách hàng theo mẫu có sẵn. Hệ thống nhận thông tin và kiềm tra tính hợp lệ và hiển thị thông báo ra màn hình. \\ \hline
+			     \hline
+				Điều kiện tiên qyết       &Người dùng phải đăng nhập thành công vào hệ thống.\\& Phòng được chọn đang ở trạng thái “chờ”.\\ & Số người cùng ở không vượt quá loại phòng được chọn.\\ \hline
+				Flow of event        & \begin{tabular}[c]{@{}l@{}}Actors:\\ Người dùng nhấn vào nút lập hóa đơn. Người dùng nhập thông tin KH gồm các mục như họ tên khách hàng, ngày tháng năm sinh, CMND, mail, sđt, loại phòng cần đặt, thời gian check out và nhấn “Lập hóa đơn”\\  System:\\ Hệ thống chuyển để giao diện có form nhập thông tin KH. Nếu nhập đầy đủ thông tin theo yêu cầu, hệ thống sẽ hiển thị thông báo kiểm tra lại một lần nữa để người dùng xác nhận thông tin với KH.Sau khi nhấn “Xác nhận”, thông tin người dùng sẽ lưu lại trên CSDL của khách sạn, phòng được chọn sẽ chuyển từ trạng thái chờ sang trạng thái “ đang sử dụng”. \end{tabular} \\ \hline
+			    Luồng thay thế       & Thiết bị đăng nhập không kết nối vào mạng nội bộ.\\&Người dùng để trống toàn bộ thông tin trong form và nhấn “ Lập hóa đơn”. Khi đó hệ thống hiện thông báo yêu cầu bổ sung đầy đủ thông tin theo form. Nếu thiếu quá số lần quy định hệ thống khóa tài khoản của người dùng và ngắt kết nối thiết bị vào mạng nội bộ.\\ &Người dùng để trống một số thông tin trong form và nhấn “ Lập hóa đơn”. Khi đó hệ thống hiện thông báo yêu cầu bổ sung đầy đủ thông tin theo form. Nếu thiếu quá số lần quy định hệ thống khóa tài khoản của người dùng và ngắt kết nối thiết bị vào mạng nội bộ.\\ \hline
+				Điều kiện sau \\ &Hiển thị thông báo đã lập hóa đơn thành công và in ra hóa đơn.\\ \hline
+				Điều kiện thoát       & \\ \hline
+			\end{tabular}
+			\caption{Usecase lập hóa đơn đặt phòng}
+			\label{table}
+		\end{table} 
+		\pagebreak
+		
+		\subsubsection{Use case lập hoá đơn dịch vụ}
+		\begin{table}[h!]
+		\centering
+			\begin{tabular}{|l|l|}
+				\hline
+				Tên Use case            & Lập hóa đơn dịch vụ\\ \hline
+				Tác nhân:            & Lễ tân \\ \hline
+				Kích hoạt     &Người dùng phải đăng nhập thành công vào hệ thống. \\&Thiết bị có kết nối vào mạng nội bộ. \\&Người dùng nhấn nút “Lập hóa đơn dịch vụ”. \\ \hline
+		    	Mô tả   &Người dùng chọn mục lập hóa đơn dịch vụ và chọn các dịch vụ  theo yêu cầu KH. Hệ thống xác nhận KH sử dụng dịch vụ và lưu lại trong CSDL. \\ \hline
+			
+				Điều kiện tiên quyết       &Thiết bị có kết nối vào mạng nội bộ.\\& Người dùng đã đăng nhập vào hệ thống.\\ &Đã thuê phòng thành công. Phòng được chọn thuê hiện tại đã đổi sang trạng thái “đang sử dụng”.\\ .\\ &Dịch vụ được chọn phải trong trạng thái “sẵn sàng”.\\\hline
+				Flow of event        & \begin{tabular}[c]{@{}l@{}}Actors:\\ Người dùng nhấn vào nút lập hóa đơn dịch vụ. Người dùng click chọn các dịch vụ theo nhu cầu của KH. Sau khi hoàn thành nhấn xuất hóa đơn.\\  System:\\ Hệ thống chuyển để giao diện có thông tin KH cùng loại phòng đã thuê thành công, có hiển thị các dịch vụ đang trong trạng thái “sẵn sàng” dạng click chọn. Những dịch vụ được chọn sẽ xuất ra màn hình theo dạng form điền gồm có thông tin KH, phòng đặt, dịch vụ đã chọn và hiện thông báo kiểm tra lại thông tin lần nữa.Sau khi nhấn “Xác nhận”, thông tin dịch vụ được sử dụng sẽ lưu vào CSDL của KH. Hiện thông báo hoàn tất quá trình sử dụng dịch vụ.
+ \end{tabular} \\ \hline
+			    Luồng thay thế       & Thiết bị đăng nhập không kết nối vào mạng nội bộ.\\&KH chưa đặt phòng thành công hoặc phòng chưa chuyển qua trạng thái “đang sử dụng”. Khi đó hệ thống hiển thị thông báo yêu cầu kiểm tra lại quá trình đặt phòng của KH. .\\ &Người dùng chưa click chọn các dịch vụ và nhấn xuất hóa đơn. Khi đó hệ thống hiển thị thông báo yêu cầu chọn dịch vụ.\\ \hline
+			    Điều kiện sau:& Hiển thị thông báo đã lập hóa đơn dịch vụ thành công và in ra hóa đơn.    \\ \hline
+				Điều kiện thoát       & \\ \hline
+			\end{tabular}
+			\caption{Usecase lập hóa đơn dịch vụ}
+			\label{table}
+		\end{table} 
+		\pagebreak
+		
+		\subsubsection{Usecase thống kê doanh thu}
+	\begin{table}[h!]
+		\centering
+			\begin{tabular}{|l|l|}
+				\hline
+				Tên Use case            & UC Thống kê doanh thu.\\ \hline
+				Tác nhân:            & Kế toán \\ \hline
+				Kích hoạt     &Chọn mục thông kê doanh thu. \\ &Chọn thống kê doanh thu theo thời gian có sẵn hoăc tự chọn thời gian. \\ \hline
+		    	Mô tả   & Use case hỗ trợ tra cứu các thông tin hóa đơn, thống kê doanh thu theo từng mức thời gian có sẵn hoặc tự chọn thời gian thống kê. \\ \hline
+				Điều kiện tiên quyết       & Người dùng phải đăng nhập thành công vào hệ thống.\\& Thiết bị có kết nối vào mạng nội bộ.\\ & - Hóa đơn đã được tạo và lưu vào CSDL.\\ \hline
+			    Luồng sự kiện       & \begin{tabular}[c]{@{}l@{}}Actors:\\Người dùng chọn mục thống kê doanh thu. Người dùng chọn vào một trong các mục thời gian trên và nhấn xác nhận\\  System:\\ Hệ thống cho lựa chọn gồm tuần, quý, tháng hoặc theo thời gian tự chọn. Hệ thống in ra báo cáo doanh thu. Hệ thống hỗ trợ chuyển báo cáo đến bộ phận quản lý.\end{tabular} \\ \hline
+				Luồng thay thế       & Thiết bị đăng nhập không kết nối vào mạng nội bộ.\\&Người dùng chưa chọn thời gian thống kê doanh thu, khi đó hệ thống hiện thị thông báo yêu cầu chọn thời gian cần xuất báo cáo doanh thu.\\ \hline
+				Điều kiện sau \\ &Hiển thị báo cáo doanh thu.\\ \hline
+				Điều kiện thoát   \\ \hline
+			\end{tabular}
+			\caption{Usecase thống kê doanh thu}
+			\label{table}
+		\end{table} 
+		\pagebreak
+			\subsubsection{Usecase quản lý kinh doanh}
+	\begin{table}[h!]
+		\centering
+			\begin{tabular}{|l|l|}
+				\hline
+				Tên Use case            & UC Quản lý kinh doanh\\ \hline
+				Tác nhân:            & Quản lý \\ \hline
+				Kích hoạt     &Người dùng chọn mục quản lý kinh doanh. \\ \hline
+		    	Mô tả   &Hỗ trợ quản lý, cập nhật các loại phòng, tình trạng phòng, tình trạng các dịch vụ để bảo trì cơ sở vật chất. \\ \hline
+				Điều kiện tiên quyết       & Người dùng phải đăng nhập thành công vào hệ thống.\\& Thiết bị có kết nối vào mạng nội bộ.\\ &Được phân quyền để xem mục quản lý kinh doanh.\\ \hline
+			    Luồng sự kiện       & \begin{tabular}[c]{@{}l@{}}Actors:\\Người dùng chọn mục quản lý kinh doanh. Người dùng lựa chọn các nút thêm, xóa, cập nhật các thông tin và bấm xác nhận.\\  System:\\ Hệ thống hiện thị các thông tin về phòng, dịch vụ, bảo trì cơ sở vật chất. Hiển thị các nút thêm, xóa, cập nhật các loại phòng, cơ sở vật chất. Hệ thống hiển thị thông báo đã cập nhật thành công và cập nhật vào CSDL nếu có thay đổi.\end{tabular} \\ \hline
+				Luồng thay thế  \\     &\\ \hline
+				Điều kiện sau \\ &Hiển thị thông báo đã xác nhận những thay đổi trong CSDL nếu có.\\ \hline
+				Điều kiện thoát   \\ \hline
+			\end{tabular}
+			\caption{Usecase quản lý kinh doanh}
+			\label{table}
+		\end{table} 
+
+	
+		\pagebreak
+			\subsubsection{Usecase quản lý kinh doanh}
+	\begin{table}[h!]
+		\centering
+			\begin{tabular}{|l|l|}
+				\hline
+				Tên Use case            & UC nhân viên\\ \hline
+				Tác nhân:            & Quản lý \\ \hline
+				Kích hoạt     &Người dùng chọn mục quản lý nhân viên. \\ \hline
+		    	Mô tả   &Hỗ trợ thêm, xóa, sửa, cập nhât phân quyền cho nhân viên. \\ \hline
+				Điều kiện tiên quyết       & Người dùng phải đăng nhập thành công vào hệ thống.\\& Thiết bị có kết nối vào mạng nội bộ.\\ &- Được phân quyền để xem mục quản lý nhân viên.\\ \hline
+			    Luồng sự kiện       & \begin{tabular}[c]{@{}l@{}}Actors:\\Người dùng chọn mục quản lý nhân viên.Người dùng lựa chọn các nút thêm, xóa, cập nhật các thông tin về nhân viên và nhấn xác nhận.\\  System:\\ Hệ thống hiện thị các thông tin về nhân viên theo dạng danh sách, có hỗ trợ tìm kiếm nhân viên. Hệ thống hiển thị thông báo đã cập nhật thành công và cập nhật vào CSDL nếu có thay đổi.\end{tabular} \\ \hline
+				Luồng thay thế  \\     &\\ \hline
+				Điều kiện sau \\ &Hiển thị thông báo đã xác nhận những thay đổi trong CSDL nếu có.\\ \hline
+				Điều kiện thoát   \\ \hline
+			\end{tabular}
+			\caption{Usecase quản lý nhân viên}
+			\label{table}
+		\end{table} 
+		\pagebreak
+		
+		\subsubsection{Use case quản lý khách hàng }
+		\begin{table}[h!]
+		\centering
+			\begin{tabular}{|l|l|}
+				\hline
+				Tên Use case            & UC Quản lý KH\\ \hline
+				Tác nhân:            & Quản lý/ Lễ tân \\ \hline
+				Kích hoạt     &NNgười dùng chọn mục quản lý KH. \\ \hline
+		    	Mô tả   &Hỗ trợ thêm, xóa, sửa cho KH. \\ \hline
+				Điều kiện tiên quyết       & Người dùng phải đăng nhập thành công vào hệ thống.\\& Thiết bị có kết nối vào mạng nội bộ.\\ &- Được phân quyền để xem mục quản lý KH.\\ \hline
+			    Luồng sự kiện       & \begin{tabular}[c]{@{}l@{}}Actors:\\Người dùng chọn mục quản lý KH .Người dùng lựa chọn các nút thêm, xóa, cập nhật các thông tin về khách hàng và nhấn xác nhận.\\  System:\\ Hệ thống hiện thị các thông tin về KH theo dạng danh sách, có hỗ trợ tìm kiếm KH. Hệ thống hiển thị thông báo đã cập nhật thành công và cập nhật vào CSDL nếu có thay đổi.\end{tabular} \\ \hline
+				Luồng thay thế  \\     &\\ \hline
+				Điều kiện sau \\ &Hiển thị thông báo đã xác nhận những thay đổi trong CSDL nếu có.\\ \hline
+				Điều kiện thoát   \\ \hline
+			\end{tabular}
+			\caption{Usecase quản lý khách hàng}
+			\label{table}
+		\end{table} 
+		\pagebreak
+			\subsubsection{Use case quản lý hóa đơn }
+	    \begin{table}[h!]
+		\centering
+			\begin{tabular}{|l|l|}
+				\hline
+				Tên Use case            & UC Quản lý KH\\ \hline
+				Tác nhân:            & Quản lý/ Lễ tân \\ \hline
+				Kích hoạt     &NNgười dùng chọn mục quả lý hóa đơn. \\ \hline
+		    	Mô tả   Hỗ trợ thêm, xóa, sửa, cập nhật thông tin hóa đơn. \\ \hline
+				Điều kiện tiên quyết       & Người dùng phải đăng nhập thành công vào hệ thống.\\& Thiết bị có kết nối vào mạng nội bộ.\\ &- Được phân quyền để xem mục quản lý hóa đơn.\\ \hline
+			    Luồng sự kiện       & \begin{tabular}[c]{@{}l@{}}Actors:\\Người dùng chọn mục quản lý hóa đơn .Người dùng lựa chọn các nút thêm, xóa, cập nhật các thông tin về hóa đơn và nhấn xác nhận.\\  System:\\ Hệ thống hiện thị các thông tin theo dạng danh sách, có hỗ trợ tìm kiếm hóa đơn . Hệ thống hiển thị thông báo đã cập nhật thành công và cập nhật vào CSDL nếu có thay đổi.\end{tabular} \\ \hline
+				Luồng thay thế  \\     &\\ \hline
+				Điều kiện sau \\ &Hiển thị thông báo đã xác nhận những thay đổi trong CSDL nếu có.\\ \hline
+				Điều kiện thoát   \\ \hline
+			\end{tabular}
+			\caption{Usecase quản lý hóa đơn}
+			\label{table}
+		\end{table} 
+		\pagebreak
+		\fontsize{14}{20}\selectfont
+		\subsection{Các yêu cầu chức năng của hệ thống:}
+		\fontsize{13}{20}\selectfont
+		\begin{itemize}
+			\item[-]Đảm bảo quản lý tốt quá trình tạo và chỉnh sửa các loại hóa đơn.
+			\item[-]Hỗ trợ phân quyền sử dụng hệ thống cho người dùng.
+			\item[-]Các hóa đơn, thông tin khách hàng cần được lưu trữ chính xác vào CSDL tập trung.
+			\item[-]Quản lý được tình trạng phòng, dịch vụ đang có để đáp ứng nhu cầu sử dụng.
+		\end{itemize}	
+		
+		\fontsize{14}{20}\selectfont
+		\subsection{Các yêu cầu phi chức năng của hệ thống:}
+		\fontsize{13}{20}\selectfont
+		\begin{itemize}
+			\item[-]Đảm bảo CSDL đủ để lưu trữ thông tin trong thời gian dài..
+			\item[-]Giao diện trực quan dễ sử dụng cho người mới tiếp xúc.
+			\item[-]Đảm bảo các phân quyền sử dụng cùng truy cập và sử dụng trên 1 CSDL.
+			\item[-]Hệ thống cần giao diện sử dụng đơn giản cho mọi người có thể dễ dàng sử dụng.
+			\item[-]Hệ thống đảm bảo khả năng linh hoạt khi xuất dữ liệu ra các dạng file khác nhau để dễ dàng lưu trữ và thống kê báo cáo.
+			\item[-]-	Cập nhật nhanh chóng những thay đổi trong CSDL để đảm bảo đồng bộ giữa các phân quyền sử dụng.
+		\end{itemize}
+		
+		
+	\end{flushleft}
+\end{document}

@@ -1,0 +1,197 @@
+PWD d:\TheAnh_Hoang_TTS\Report\ThucTapTotNghiep
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\TheAnh_Hoang_TTS\Report\ThucTapTotNghiep\main.tex
+OUTPUT main.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\vietnam.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\vietnam.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5enc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5enc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5enc.dfu
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmr.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmr.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\vncaps.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\vncaps.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\vncaps.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\pifont.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\pifont.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\zapfding\pzdr.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+INPUT .\cover_page.aux
+INPUT .\cover_page.aux
+INPUT cover_page.aux
+INPUT .\title_page.aux
+INPUT .\title_page.aux
+INPUT title_page.aux
+INPUT .\camdoan_page.aux
+INPUT .\camdoan_page.aux
+INPUT camdoan_page.aux
+INPUT .\camon_page.aux
+INPUT .\camon_page.aux
+INPUT camon_page.aux
+OUTPUT main.aux
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\cover_page.tex
+INPUT .\cover_page.tex
+OUTPUT cover_page.aux
+INPUT .\cover_page.tex
+INPUT .\cover_page.tex
+INPUT cover_page.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vncsc10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT .\logo.png
+INPUT .\logo.png
+INPUT .\logo.png
+INPUT .\logo.png
+OUTPUT main.pdf
+INPUT .\logo.png
+INPUT .\logo.png
+INPUT .\logo.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnti12.tfm
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\title_page.tex
+INPUT .\title_page.tex
+OUTPUT title_page.aux
+INPUT .\title_page.tex
+INPUT .\title_page.tex
+INPUT title_page.tex
+INPUT .\logo.png
+INPUT .\logo.png
+INPUT .\logo.png
+INPUT .\logo.png
+INPUT .\camdoan_page.tex
+INPUT .\camdoan_page.tex
+OUTPUT camdoan_page.aux
+INPUT .\camdoan_page.tex
+INPUT .\camdoan_page.tex
+INPUT camdoan_page.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnti12.tfm
+INPUT .\camon_page.tex
+INPUT .\camon_page.tex
+OUTPUT camon_page.aux
+INPUT .\camon_page.tex
+INPUT .\camon_page.tex
+INPUT camon_page.tex
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+OUTPUT main.toc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT main.aux
+INPUT .\cover_page.aux
+INPUT .\cover_page.aux
+INPUT cover_page.aux
+INPUT .\title_page.aux
+INPUT .\title_page.aux
+INPUT title_page.aux
+INPUT .\camdoan_page.aux
+INPUT .\camdoan_page.aux
+INPUT camdoan_page.aux
+INPUT .\camon_page.aux
+INPUT .\camon_page.aux
+INPUT camon_page.aux
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx10.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx10.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi720\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi720\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi650\vnti12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi650\vnti12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi650\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi650\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi650\vnr12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi650\vnr12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnr10.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnr10.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi700\vnr12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi700\vnr12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi900\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi900\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi1000\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi1000\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi800\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi800\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi960\vncsc10.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi960\vncsc10.pk
