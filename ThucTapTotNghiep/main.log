@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.16)  16 MAY 2024 11:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.16)  16 MAY 2024 15:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -289,6 +289,7 @@ File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box51
 ) (main.aux
 (cover_page.aux) (title_page.aux) (camdoan_page.aux) (camon_page.aux)
+(mucluc_page.aux) (chapter1.aux) (chapter2.aux)
 
 LaTeX Warning: Label `table' multiply defined.
 
@@ -358,15 +359,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(99.58464pt, 457.80486pt, 56.9055pt)
-* v-part:(T,H,B)=(99.58464pt, 610.02708pt, 85.35826pt)
+* h-part:(L,W,R)=(85.35826pt, 472.03123pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=457.80486pt
-* \textheight=610.02708pt
-* \oddsidemargin=27.31465pt
-* \evensidemargin=27.31465pt
-* \topmargin=-9.68535pt
+* \textwidth=472.03123pt
+* \textheight=681.15898pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -395,7 +396,7 @@ LaTeX Font Warning: Font shape `T5/cmr/bx/sc' undefined
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 13.
-(pdftex.def)             Requested size: 80.29274pt x 80.29274pt.
+(pdftex.def)             Requested size: 160.61612pt x 160.61612pt.
 ) [1
 
 
@@ -406,7 +407,7 @@ Package pdftex.def Info: logo.png  used on input line 13.
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 13.
-(pdftex.def)             Requested size: 80.29274pt x 80.29274pt.
+(pdftex.def)             Requested size: 160.61612pt x 160.61612pt.
 ) [1
 
 
@@ -425,103 +426,117 @@ Package pdftex.def Info: logo.png  used on input line 13.
 
 
 
-] [2
-
-
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 58--64
-
- []
+\openout2 = `mucluc_page.aux'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--77
-
- []
-
-[3] [4] (main.toc
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 14.
+(mucluc_page.tex (main.toc
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 10.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 14.
+(Font)              size <12> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 14.
+(Font)              size <6> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
-(Font)              size <12> substituted on input line 14.
+(Font)              size <12> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 14.
+(Font)              size <6> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 14.
+(Font)              size <12> substituted on input line 10.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 14.
+(Font)              size <6> substituted on input line 10.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <13> on input line 14.
+(Font)              <13> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.09996> on input line 14.
+(Font)              <9.09996> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6.5> on input line 14.
+(Font)              <6.5> on input line 10.
 )
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [1] [2] [3]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 198.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 198.
+) [1
 
-Overfull \hbox (854.40839pt too wide) in paragraph at lines 198--210
+
+
+]
+\openout2 = `chapter1.aux'.
+
+ (chapter1.tex [2
+
+
+
+]) [3]
+\openout2 = `chapter2.aux'.
+
+ (chapter2.tex) [4
+
+
+
+] [5]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 38.
+
+Overfull \hbox (840.182pt too wide) in paragraph at lines 38--50
  [][] 
  []
 
-[4] [5]
-Overfull \hbox (1246.95142pt too wide) in paragraph at lines 219--232
- [][] 
- []
+[6
 
-[6]
-Overfull \hbox (1691.87054pt too wide) in paragraph at lines 240--254
+
+]
+Overfull \hbox (1232.72504pt too wide) in paragraph at lines 59--72
  [][] 
  []
 
 [7]
-Overfull \hbox (373.13702pt too wide) in paragraph at lines 262--274
+Overfull \hbox (1677.64417pt too wide) in paragraph at lines 80--94
  [][] 
  []
 
 [8]
-Overfull \hbox (691.19824pt too wide) in paragraph at lines 281--293
+Overfull \hbox (358.91064pt too wide) in paragraph at lines 102--114
  [][] 
  []
 
 [9]
-Overfull \hbox (496.46802pt too wide) in paragraph at lines 302--314
+Overfull \hbox (676.97186pt too wide) in paragraph at lines 121--133
  [][] 
  []
 
 [10]
-Overfull \hbox (440.92603pt too wide) in paragraph at lines 322--334
+Overfull \hbox (482.24164pt too wide) in paragraph at lines 142--154
  [][] 
  []
 
 [11]
-Overfull \hbox (598.60974pt too wide) in paragraph at lines 341--353
+Overfull \hbox (426.69965pt too wide) in paragraph at lines 162--174
  [][] 
  []
 
-[12] [13] (main.aux (cover_page.aux) (title_page.aux) (camdoan_page.aux)
-(camon_page.aux))
+[12]
+Overfull \hbox (584.38336pt too wide) in paragraph at lines 181--193
+ [][] 
+ []
+
+[13] [14]
+\gdef \@abspage@last{18}
+(main.aux (cover_page.aux) (title_page.aux) (camdoan_page.aux) (camon_page.aux)
+(mucluc_page.aux) (chapter1.aux) (chapter2.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
@@ -539,13 +554,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3084 strings out of 474370
- 47372 string characters out of 5750350
+ 3159 strings out of 474370
+ 49541 string characters out of 5750350
  1937754 words of memory out of 5000000
- 25429 multiletter control sequences out of 15000+600000
+ 25483 multiletter control sequences out of 15000+600000
  578593 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,14n,65p,1103b,385s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,14n,65p,1103b,423s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnbx10
 .pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnbx
 12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi720\vn
@@ -555,13 +570,13 @@ vnti12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi65
 650\vnr12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dp
 i600\vnr10.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/d
 pi700\vnr12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/
-dpi900\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vn
-r/dpi1000\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex
-/vnr/dpi800\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vnt
-ex/vnr/dpi960\vncsc10.pk>
-Output written on main.pdf (20 pages, 1213985 bytes).
+dpi1200\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/v
+nr/dpi1000\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vnte
+x/vnr/dpi800\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vn
+tex/vnr/dpi960\vncsc10.pk>
+Output written on main.pdf (18 pages, 1183838 bytes).
 PDF statistics:
- 722 PDF objects out of 1000 (max. 8388607)
+ 643 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

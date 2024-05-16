@@ -82,6 +82,15 @@ INPUT camdoan_page.aux
 INPUT .\camon_page.aux
 INPUT .\camon_page.aux
 INPUT camon_page.aux
+INPUT .\mucluc_page.aux
+INPUT .\mucluc_page.aux
+INPUT mucluc_page.aux
+INPUT .\chapter1.aux
+INPUT .\chapter1.aux
+INPUT chapter1.aux
+INPUT .\chapter2.aux
+INPUT .\chapter2.aux
+INPUT chapter2.aux
 OUTPUT main.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -141,6 +150,12 @@ OUTPUT camon_page.aux
 INPUT .\camon_page.tex
 INPUT .\camon_page.tex
 INPUT camon_page.tex
+INPUT .\mucluc_page.tex
+INPUT .\mucluc_page.tex
+OUTPUT mucluc_page.aux
+INPUT .\mucluc_page.tex
+INPUT .\mucluc_page.tex
+INPUT mucluc_page.tex
 INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
@@ -154,10 +169,22 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 OUTPUT main.toc
+INPUT .\chapter1.tex
+INPUT .\chapter1.tex
+OUTPUT chapter1.aux
+INPUT .\chapter1.tex
+INPUT .\chapter1.tex
+INPUT chapter1.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT .\chapter2.tex
+INPUT .\chapter2.tex
+OUTPUT chapter2.aux
+INPUT .\chapter2.tex
+INPUT .\chapter2.tex
+INPUT chapter2.tex
 INPUT main.aux
 INPUT .\cover_page.aux
 INPUT .\cover_page.aux
@@ -171,6 +198,15 @@ INPUT camdoan_page.aux
 INPUT .\camon_page.aux
 INPUT .\camon_page.aux
 INPUT camon_page.aux
+INPUT .\mucluc_page.aux
+INPUT .\mucluc_page.aux
+INPUT mucluc_page.aux
+INPUT .\chapter1.aux
+INPUT .\chapter1.aux
+INPUT chapter1.aux
+INPUT .\chapter2.aux
+INPUT .\chapter2.aux
+INPUT chapter2.aux
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx10.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx10.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx12.pk
@@ -187,8 +223,8 @@ INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnr10
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnr10.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi700\vnr12.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi700\vnr12.pk
-INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi900\vnbx12.pk
-INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi900\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi1200\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi1200\vnbx12.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi1000\vnbx12.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi1000\vnbx12.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi800\vnbx12.pk

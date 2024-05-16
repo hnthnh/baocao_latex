@@ -4,7 +4,7 @@
 \usepackage{setspace}
 \usepackage{fancyhdr}
 \usepackage{pifont}
-\usepackage[left=3.5cm,right=2cm,top=3.5cm,bottom=3cm]{geometry}
+\usepackage[left=3cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \graphicspath{ {./images/} }
 \makeatletter
 \renewcommand{\tableofcontents}{%
@@ -16,170 +16,10 @@
 \include{title_page}
 \include{camdoan_page}
 \include{camon_page}
- %------------------------------------------------------------
-	%|							PAGE ii							|
-	%------------------------------------------------------------
-	\begin{center}
-		\setstretch{1.0}
-		\fontsize{16}{20}\selectfont
-		\textbf{ĐỒ ÁN ĐƯỢC HOÀN THÀNH}\\
-		\textbf{TẠI TRƯỜNG ĐẠI HỌC TÔN ĐỨC THẮNG\\} 
-	\end{center}
-	\setstretch{1.5}
-	\fontsize{13}{13}\selectfont
-	\paragraph{}
-	Tôi xin cam đoan đây là sản phẩm đồ án của riêng chúng tôi và được sự hướng dẫn của thầy Dương Hữu Phúc;. Các nội dung nghiên cứu, kết quả trong đề tài này là trung thực và chưa công bố dưới bất kỳ hình thức nào trước đây. Những số liệu trong các bảng biểu phục vụ cho việc phân tích, nhận xét, đánh giá được chính tác giả thu thập từ các nguồn khác nhau có ghi rõ trong phần tài liệu tham khảo.
-	\paragraph{}
-	Ngoài ra, trong đồ án còn sử dụng một số nhận xét, đánh giá cũng như số liệu của các tác giả khác, cơ quan tổ chức khác đều có trích dẫn và chú thích nguồn gốc.
-	\paragraph{}
-	\textbf{Nếu phát hiện có bất kỳ sự gian lận nào chúng tôi xin hoàn toàn chịu trách nhiệm về nội dung đồ án của mình.} Trường đại học Tôn Đức Thắng không liên quan đến những vi phạm tác quyền, bản quyền do tôi gây ra trong quá trình thực hiện (nếu có).
-	\begin{flushright}
-		TP. Hồ Chí Minh,  ngày   tháng   năm   \\ 
-		\textit{Tác giả\\
-			(ký tên và ghi rõ họ tên)\\
-			\vspace{1.5cm}
-			Lương Gia Hân\\
-			\vspace{1.5cm}
-			Trần Gia Thái\\
-			\vspace{1.5cm}}
-	\end{flushright}
-	\pagebreak
+\include{mucluc_page}
+\include{chapter1}
+\include{chapter2}
 	
-	%------------------------------------------------------------
-	%|						PAGE iii							|
-	%------------------------------------------------------------
-	\begin{center}
-		\setstretch{1.0}
-		\fontsize{16}{20}\selectfont
-		\textbf{PHẦN NHẬN XÉT VÀ ĐÁNH GIÁ CỦA GIẢNG VIÊN}\\
-	\end{center}
-	\setstretch{1.5}
-	\fontsize{13}{13}\selectfont
-	\textbf{Phần xác nhận của GV hướng dẫn}\\
-	................................................................................................................................\\
-	................................................................................................................................\\
-	................................................................................................................................\\
-	................................................................................................................................\\
-	................................................................................................................................\\
-	\begin{flushright}
-		TP. Hồ Chí Minh,  ngày   tháng   năm   \\ 
-		(ký tên và ghi rõ họ tên)\\
-		\vspace{3cm}
-	\end{flushright}
-	\setstretch{1.5}
-	\fontsize{13}{13}\selectfont
-	\textbf{Phần đánh giá của GV chấm bài}\\
-	................................................................................................................................\\
-	................................................................................................................................\\
-	................................................................................................................................\\
-	................................................................................................................................\\
-	................................................................................................................................\\
-	\begin{flushright}
-		TP. Hồ Chí Minh,  ngày   tháng   năm   \\ 
-		(ký tên và ghi rõ họ tên)\\
-		\vspace{3cm}
-	\end{flushright}
-	\pagebreak
-	
-	%------------------------------------------------------------
-	%|							PAGE iv							|
-	%------------------------------------------------------------
-	\begin{center}
-		\fontsize{16}{20}\selectfont
-		\textbf{TÓM TẮT\\} 
-	\end{center}
-	\setstretch{1.5}
-	\fontsize{13}{13}\selectfont
-	\paragraph{}
-	Trong thời buổi hiện nay, CNTT không chỉ là phương tiện hỗ  trợ cho cuộc sống, nhu cầu cá nhân mà còn được xem như thước đo về sự phát triển của bất kì một tổ chức, quốc gia nào. Việc triển khai các hệ thống quản lý giúp gia tăng năng suất hoạt động một cách hiệu quả, giảm thiểu  tối đa tình trạng sai sót do ảnh hưởng về mặt tâm sinh lý con người. Tuy nhiên, hiện vẫn không ít các khách sạn vừa và nhỏ chỉ thực hiện công việc quản lý khách sạn thủ công. Do đó, đồ án này được thiết kế nhằm tối ưu hóa các công việc thủ công lặp đi lặp lại, tránh tình trạng sai sót và thiếu chính xác trong vấn đề quản lý khách sạn.
-	
-	\pagebreak
-	
-	%------------------------------------------------------------
-	%|					TABLEOFCONTENT PAGE						|
-	%------------------------------------------------------------
-	\begin{center}
-		\pagenumbering{arabic}\setcounter{page}{1}
-		\fontsize{16}{20}\selectfont
-		\textbf{MỤC LỤC\\} 
-		
-	\end{center}
-	\setstretch{1.5}
-	\fontsize{13}{13}\selectfont
-	\tableofcontents
-	\addcontentsline{toc}{section}{LỜI CẢM ƠN}
-	
-	
-	
-	
-	
-	\pagebreak
-	%------------------------------------------------------------
-	%|					CHAPTER 1						|
-	%------------------------------------------------------------
-	\begin{center}
-		\pagenumbering{arabic}\setcounter{page}{2}
-	\end{center}
-	
-	\begin{flushleft}
-		
-		\fontsize{16}{20}\selectfont
-		\section*{CHƯƠNG 1: MỤC ĐÍCH}
-		\addcontentsline{toc}{section}{CHƯƠNG 1: MỤC ĐÍCH}
-		\fontsize{13}{13}\selectfont
-		\paragraph{}
-        Hệ thống được thiết kế cho các khách sạn vừa và nhỏ nên chỉ tập trung khai thác và xử lý các vấn đề như tạo hóa đơn, chỉnh sửa thông tin hóa đơn, quản lý KH, quản lý nhân viên, v.v . Những công việc trên hoàn toàn có thể làm thủ công. Tuy vậy, việc đó dễ gây ra sao sót ảnh hưởng tới doanh thu của khách sạn và một số vấn đề liên quan. Việc xây dựng hệ thống quản lý khách sạn tạo ra một form mẫu cho các công viêc lặp đi lặp, từ đó người sử dụng dễ dàng tiếp cận làm quen nhanh chóng và người được phân quyền cao dễ dàng quản lý.Phạm vi: Ứng dụng cho các mô hình khách sạn vừa và nhỏ.
-	\pagebreak
-		\begin{itemize}
-			\item[-] Xây dựng hệ thống quản lý khách sạn bao gồm các bước:
-			\begin{itemize}
-				\item[+]Khảo sát nhu cầu người dùng.
-				\item[+]Phân tích hệ thống.
-				\item[+]Mô hình hóa hệ thống bằng các sơ đồ cụ thể.
-				\item[+]Thiết kế các chức năng của hệ thống.
-			\end{itemize}
-		\end{itemize}	
-			\begin{itemize}
-			\item[-]Hệ thống gồm có các chức năng sau:
-			\begin{itemize}
-				\item[+]Quản lý phòng và các dịch vụ tương ứng.
-				\item[+]Quản lý khách hàng.
-				\item[+]Lập hóa đơn.
-				\item[+]Thanh toán hóa đơn.
-				\item[+]Thống kê doanh thu định kì.
-				\item[+]Quản lý nhân sự.
-			\end{itemize}
-		\end{itemize}	
-		
-		\fontsize{16}{20}\selectfont
-		\section*{CHƯƠNG 2: ĐẶC TẢ HỆ THỐNG}
-		\addcontentsline{toc}{section}{CHƯƠNG 2: ĐẶC TẢ HỆ THỐNG}
-		\fontsize{14}{20}\selectfont
-		\setcounter{section}{2}
-		\subsection{Hoạt động thuê phòng – trả phòng}
-		\fontsize{13}{13}\selectfont
-		\begin{itemize}
-		
-			\item[-] KH khi có nhu cầu thuê phòng sẽ báo với lễ tân. Sau khi kiểm tra phòng trống theo yêu cầu của KH, lễ tân thực hiện thao tác lập hóa đơn bao gồm thu thập các thông tin như họ tên KH, mail, sdt để tạo mã số KH và điền vào hóa đơn theo mẫu có sẵn. Có thể bổ sung các dịch vụ cần sử dụng trong quá trình lập hóa đơn cũng như sau khi đã xuất hóa đơn. 
-			\item[-] Lễ tân cập nhật các hóa đơn đã lập thành công vào hệ thống. Hệ thống xác nhận và cập nhật tình trạng phòng trống để hiển thị ra danh sách phòng. Tiến hành thủ tục check-in và nhận thanh toán bằng tiện mặt hoặc chuyển khoản.
-			\item[-]Khi thực hiện thủ tục check-out trả phòng, lễ tân kiểm tra lại tình trạng thanh toán của hóa đơn, cập nhật lại tình trạng phòng trống cho lần thuê sau.
-			\item[-]Thông tin KH cần được lưu trữ cho lần thuê phòng tiếp theo.
-			\item[-]Trường hợp KH gọi dt để đặt phòng, có thể dùng lại quy trình này để đặt phòng cho KH.
-			
-		\end{itemize}
-		
-		\fontsize{14}{20}\selectfont
-		\subsection{Đăng kí sử dụng dịch vụ}
-		\fontsize{13}{20}\selectfont
-		\paragraph{}
-       KH có thể lựa chọn dịch vụ theo nhu cầu trong thời gian lập hóa đơn hoặc trong thời gian sử dụng phòng. Nếu KH chọn sử dụng dịch vụ trong lúc lập hóa đơn, hóa đơn dịch vụ sẽ tính chung với hóa đơn phòng. Nếu KH muốn sử dụng thêm dịch vụ trong thời gian sử dụng phòng, lễ tân sẽ cập nhật hóa đơn dịch vụ của KH đó, xác định số nợ chưa thanh toán trước, cộng dồn với số dịch vụ vừa đăng kí thêm và in ra hóa đơn dịch vụ.
-		
-		\fontsize{14}{20}\selectfont
-		\subsection{Lập báo cáo:}
-		\fontsize{13}{20}\selectfont
-	    \paragraph{}
-       KH có thể lựa chọn dịch vụ theo nhu cầu trong thời gian lập hóa đơn hoặc trong thời gian sử dụng phòng. Nếu KH chọn sử dụng dịch vụ trong lúc lập hóa đơn, hóa đơn dịch vụ sẽ tính chung với hóa đơn phòng. Nếu KH muốn sử dụng thêm dịch vụ trong thời gian sử dụng phòng, lễ tân sẽ cập nhật hóa đơn dịch vụ của KH đó, xác định số nợ chưa thanh toán trước, cộng dồn với số dịch vụ vừa đăng kí thêm và in ra hóa đơn dịch vụ.
-		
 		\fontsize{14}{20}\selectfont
 		
 		\section*{CHƯƠNG 3: PHÂN TÍCH HỆ THỐNG}
