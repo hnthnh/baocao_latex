@@ -9,29 +9,38 @@
 \contentsline {section}{CHƯƠNG 1: GIỚI THIỆU CHUNG ĐƠN VỊ THỰC TẬP }{2}{}%
 \contentsline {subsection}{\numberline {1.1}Thông tin về đơn vị thực tập}{2}{}%
 \contentsline {subsubsection}{\numberline {1.1.1}Sơ lược về sự hình thành và phát triển của đơn vị}{2}{}%
-\contentsline {subsubsection}{\numberline {1.1.2}Tổ chức và các lĩnh vực hoạt động của đơn vị}{2}{}%
-\contentsline {subsubsection}{\numberline {1.1.3}Tổ chức quản lý sử dụng các nguồn lực của đơn vị}{2}{}%
-\contentsline {subsubsection}{\numberline {1.1.4}Cơ cấu tổ chức}{2}{}%
-\contentsline {subsubsection}{\numberline {1.1.5}Tình hình hoạt động kinh doanh của doanh nghiệp}{2}{}%
-\contentsline {subsection}{\numberline {1.2}Thông tin về vị trí sinh viên tham gia thực tập}{2}{}%
-\contentsline {subsubsection}{\numberline {1.2.1}Giới thiệu chung về vị trí công tác}{2}{}%
-\contentsline {subsubsection}{\numberline {1.2.2}Đặc điểm, yêu cầu}{2}{}%
-\contentsline {subsubsection}{\numberline {1.2.3}Cơ cấu tổ chức, nhiệm vụ liên quan}{2}{}%
-\contentsline {section}{CHƯƠNG 2: ĐẶC TẢ HỆ THỐNG}{3}{}%
-\contentsline {subsection}{\numberline {2.3}Hoạt động thuê phòng – trả phòng}{3}{}%
-\contentsline {subsection}{\numberline {2.4}Đăng kí sử dụng dịch vụ}{3}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}Tổ chức và các lĩnh vực hoạt động của đơn vị}{3}{}%
 \contentsline {paragraph}{}{3}{}%
-\contentsline {subsection}{\numberline {2.5}Lập báo cáo:}{3}{}%
 \contentsline {paragraph}{}{3}{}%
-\contentsline {section}{CHƯƠNG 3: PHÂN TÍCH HỆ THỐNG}{5}{}%
-\contentsline {subsection}{\numberline {3.6} Mô hình use case }{5}{}%
-\contentsline {subsubsection}{\numberline {3.6.1}Use case đăng nhập}{5}{}%
-\contentsline {subsubsection}{\numberline {3.6.2}Use case lập hóa đơn đặt phòng}{6}{}%
-\contentsline {subsubsection}{\numberline {3.6.3}Use case lập hoá đơn dịch vụ}{7}{}%
-\contentsline {subsubsection}{\numberline {3.6.4}Usecase thống kê doanh thu}{8}{}%
-\contentsline {subsubsection}{\numberline {3.6.5}Usecase quản lý kinh doanh}{9}{}%
-\contentsline {subsubsection}{\numberline {3.6.6}Usecase quản lý kinh doanh}{10}{}%
-\contentsline {subsubsection}{\numberline {3.6.7}Use case quản lý khách hàng }{11}{}%
-\contentsline {subsubsection}{\numberline {3.6.8}Use case quản lý hóa đơn }{12}{}%
-\contentsline {subsection}{\numberline {3.7}Các yêu cầu chức năng của hệ thống:}{13}{}%
-\contentsline {subsection}{\numberline {3.8}Các yêu cầu phi chức năng của hệ thống:}{13}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}Tổ chức quản lý sử dụng các nguồn lực của đơn vị}{4}{}%
+\contentsline {subsubsection}{\numberline {1.1.4}Cơ cấu tổ chức}{4}{}%
+\contentsline {subsubsection}{\numberline {1.1.5}Tình hình hoạt động kinh doanh của doanh nghiệp}{4}{}%
+\contentsline {subsection}{\numberline {1.2}Thông tin về vị trí sinh viên tham gia thực tập}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Giới thiệu chung về vị trí công tác}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Đặc điểm, yêu cầu}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}Cơ cấu tổ chức, nhiệm vụ liên quan}{4}{}%
+\contentsline {section}{CHƯƠNG 2: ĐẶC TẢ HỆ THỐNG}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Hoạt động thuê phòng – trả phòng}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Đăng kí sử dụng dịch vụ}{5}{}%
+\contentsline {paragraph}{}{5}{}%
+\contentsline {subsection}{\numberline {2.5}Lập báo cáo:}{5}{}%
+\contentsline {paragraph}{}{5}{}%
+\contentsline {section}{CHƯƠNG 3: PHÂN TÍCH HỆ THỐNG}{7}{}%
+\contentsline {subsection}{\numberline {3.6} Mô hình use case }{7}{}%
+\contentsline {subsubsection}{\numberline {3.6.1}Use case đăng nhập}{7}{}%
+\contentsline {subsubsection}{\numberline {3.6.2}Use case lập hóa đơn đặt phòng}{8}{}%
+\contentsline {subsubsection}{\numberline {3.6.3}Use case lập hoá đơn dịch vụ}{9}{}%
+\contentsline {subsubsection}{\numberline {3.6.4}Usecase thống kê doanh thu}{10}{}%
+\contentsline {subsubsection}{\numberline {3.6.5}Usecase quản lý kinh doanh}{11}{}%
+\contentsline {subsubsection}{\numberline {3.6.6}Usecase quản lý kinh doanh}{12}{}%
+\contentsline {subsubsection}{\numberline {3.6.7}Use case quản lý khách hàng }{13}{}%
+\contentsline {subsubsection}{\numberline {3.6.8}Use case quản lý hóa đơn }{14}{}%
+\contentsline {subsection}{\numberline {3.7}Các yêu cầu chức năng của hệ thống:}{15}{}%
+\contentsline {subsection}{\numberline {3.8}Các yêu cầu phi chức năng của hệ thống:}{15}{}%
