@@ -197,6 +197,9 @@ INPUT chapter1.aux
 INPUT .\chapter2.aux
 INPUT .\chapter2.aux
 INPUT chapter2.aux
+INPUT .\chapter3.aux
+INPUT .\chapter3.aux
+INPUT chapter3.aux
 OUTPUT main.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -295,6 +298,12 @@ OUTPUT chapter2.aux
 INPUT .\chapter2.tex
 INPUT .\chapter2.tex
 INPUT chapter2.tex
+INPUT .\chapter3.tex
+INPUT .\chapter3.tex
+OUTPUT chapter3.aux
+INPUT .\chapter3.tex
+INPUT .\chapter3.tex
+INPUT chapter3.tex
 INPUT main.aux
 INPUT .\cover_page.aux
 INPUT .\cover_page.aux
@@ -317,6 +326,9 @@ INPUT chapter1.aux
 INPUT .\chapter2.aux
 INPUT .\chapter2.aux
 INPUT chapter2.aux
+INPUT .\chapter3.aux
+INPUT .\chapter3.aux
+INPUT chapter3.aux
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx10.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx10.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx12.pk
