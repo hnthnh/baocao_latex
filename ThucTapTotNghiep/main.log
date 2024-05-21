@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.16)  21 MAY 2024 08:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.16)  21 MAY 2024 09:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,21 +771,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <images/logo_luna_nexus.png, id=31, 235.88126pt x 66.2475pt>
 File: images/logo_luna_nexus.png Graphic file (type png)
 <use images/logo_luna_nexus.png>
-Package pdftex.def Info: images/logo_luna_nexus.png  used on input line 27.
+Package pdftex.def Info: images/logo_luna_nexus.png  used on input line 28.
 (pdftex.def)             Requested size: 236.01561pt x 66.28674pt.
  [2
 
 
 
- <./images/logo_luna_nexus.png>]) [3]
+ <./images/logo_luna_nexus.png>] [3] [4]) [5]
 \openout2 = `chapter2.aux'.
 
- (chapter2.tex)
-[4
+
+(chapter2.tex) [6
 
 
 
-] [5]
+] [7]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
@@ -798,7 +798,7 @@ Overfull \hbox (840.182pt too wide) in paragraph at lines 16--28
  [][] 
  []
 
-[6
+[8
 
 
 
@@ -807,37 +807,37 @@ Overfull \hbox (1232.72504pt too wide) in paragraph at lines 37--50
  [][] 
  []
 
-[7]
+[9]
 Overfull \hbox (1677.64417pt too wide) in paragraph at lines 58--72
  [][] 
  []
 
-[8]
+[10]
 Overfull \hbox (358.91064pt too wide) in paragraph at lines 80--92
  [][] 
  []
 
-[9]
+[11]
 Overfull \hbox (676.97186pt too wide) in paragraph at lines 99--111
  [][] 
  []
 
-[10]
+[12]
 Overfull \hbox (482.24164pt too wide) in paragraph at lines 120--132
  [][] 
  []
 
-[11]
+[13]
 Overfull \hbox (426.69965pt too wide) in paragraph at lines 140--152
  [][] 
  []
 
-[12]
+[14]
 Overfull \hbox (584.38336pt too wide) in paragraph at lines 159--171
  [][] 
  []
 
-[13]) [14] (main.aux (cover_page.aux) (title_page.aux) (camdoan_page.aux)
+[15]) [16] (main.aux (cover_page.aux) (title_page.aux) (camdoan_page.aux)
 (camon_page.aux) (mucluc_page.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux)
 )
  ***********
@@ -872,9 +872,9 @@ i600\vnr10.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/d
 pi700\vnr12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/
 dpi1200\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/v
 nr/dpi800\vnbx12.pk>
-Output written on main.pdf (18 pages, 1208477 bytes).
+Output written on main.pdf (20 pages, 1217809 bytes).
 PDF statistics:
- 678 PDF objects out of 1000 (max. 8388607)
+ 702 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
