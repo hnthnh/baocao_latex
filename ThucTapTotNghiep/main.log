@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.16)  21 MAY 2024 09:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.16)  21 MAY 2024 10:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -686,21 +686,22 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 \openout2 = `cover_page.aux'.
 
 (cover_page.tex
-<logo.png, id=4, 2007.6606pt x 2007.6606pt>
-File: logo.png Graphic file (type png)
-<use logo.png>
-Package pdftex.def Info: logo.png  used on input line 15.
+<images/logo.png, id=4, 2007.6606pt x 2007.6606pt>
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 15.
 (pdftex.def)             Requested size: 160.61612pt x 160.61612pt.
 ) [1
 
 
-{C:/Users/hoang/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo.png>]
+{C:/Users/hoang/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/log
+o.png>]
 \openout2 = `title_page.aux'.
 
  (title_page.tex
-File: logo.png Graphic file (type png)
-<use logo.png>
-Package pdftex.def Info: logo.png  used on input line 14.
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 15.
 (pdftex.def)             Requested size: 160.61612pt x 160.61612pt.
 ) [1
 
@@ -716,7 +717,8 @@ Package pdftex.def Info: logo.png  used on input line 14.
 ]
 \openout2 = `camon_page.aux'.
 
- (camon_page.tex) [1
+
+(camon_page.tex) [1
 
 
 
@@ -777,15 +779,36 @@ Package pdftex.def Info: images/logo_luna_nexus.png  used on input line 28.
 
 
 
- <./images/logo_luna_nexus.png>] [3] [4]) [5]
+ <./images/logo_luna_nexus.png>] [3] [4] [5]) [6]
 \openout2 = `chapter2.aux'.
 
 
-(chapter2.tex) [6
+(chapter2.tex
+
+LaTeX Font Warning: Font shape `TS1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 13.
+
+<images/TH1.jpg, id=52, 903.375pt x 451.6875pt>
+File: images/TH1.jpg Graphic file (type jpg)
+<use images/TH1.jpg>
+Package pdftex.def Info: images/TH1.jpg  used on input line 17.
+(pdftex.def)             Requested size: 236.01561pt x 118.00803pt.
+<images/TH2.jpg, id=53, 444.15938pt x 302.63063pt>
+File: images/TH2.jpg Graphic file (type jpg)
+<use images/TH2.jpg>
+Package pdftex.def Info: images/TH2.jpg  used on input line 25.
+(pdftex.def)             Requested size: 236.01561pt x 160.80907pt.
+[7
 
 
 
-] [7]
+ <./images/TH1.jpg>]
+<images/TH3.jpg, id=58, 2636.34938pt x 1977.63844pt>
+File: images/TH3.jpg Graphic file (type jpg)
+<use images/TH3.jpg>
+Package pdftex.def Info: images/TH3.jpg  used on input line 33.
+(pdftex.def)             Requested size: 236.01561pt x 177.04431pt.
+) [8 <./images/TH2.jpg> <./images/TH3.jpg>]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
@@ -798,7 +821,7 @@ Overfull \hbox (840.182pt too wide) in paragraph at lines 16--28
  [][] 
  []
 
-[8
+[9
 
 
 
@@ -807,37 +830,37 @@ Overfull \hbox (1232.72504pt too wide) in paragraph at lines 37--50
  [][] 
  []
 
-[9]
+[10]
 Overfull \hbox (1677.64417pt too wide) in paragraph at lines 58--72
  [][] 
  []
 
-[10]
+[11]
 Overfull \hbox (358.91064pt too wide) in paragraph at lines 80--92
  [][] 
  []
 
-[11]
+[12]
 Overfull \hbox (676.97186pt too wide) in paragraph at lines 99--111
  [][] 
  []
 
-[12]
+[13]
 Overfull \hbox (482.24164pt too wide) in paragraph at lines 120--132
  [][] 
  []
 
-[13]
+[14]
 Overfull \hbox (426.69965pt too wide) in paragraph at lines 140--152
  [][] 
  []
 
-[14]
+[15]
 Overfull \hbox (584.38336pt too wide) in paragraph at lines 159--171
  [][] 
  []
 
-[15]) [16] (main.aux (cover_page.aux) (title_page.aux) (camdoan_page.aux)
+[16]) [17] (main.aux (cover_page.aux) (title_page.aux) (camdoan_page.aux)
 (camon_page.aux) (mucluc_page.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux)
 )
  ***********
@@ -854,27 +877,29 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13906 strings out of 474370
- 278831 string characters out of 5750350
+ 13935 strings out of 474370
+ 279423 string characters out of 5750350
  1938754 words of memory out of 5000000
- 36009 multiletter control sequences out of 15000+600000
- 575830 words of font info for 62 fonts, out of 8000000 for 9000
+ 36037 multiletter control sequences out of 15000+600000
+ 577148 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,14n,93p,1127b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnbx10
-.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi600\vnbx
-12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi720\vn
-bx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi650\
-vnti12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi65
-0\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi
-650\vnr12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dp
-i600\vnr10.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/d
-pi700\vnr12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/
-dpi1200\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/v
-nr/dpi800\vnbx12.pk>
-Output written on main.pdf (20 pages, 1217809 bytes).
+ 84i,14n,93p,1127b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi700\
+vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi60
+0\vnbx10.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/dpi
+600\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/d
+pi720\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr
+/dpi650\vnti12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/v
+nr/dpi650\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex
+/vnr/dpi650\vnr12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vnte
+x/vnr/dpi600\vnr10.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vnt
+ex/vnr/dpi700\vnr12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour/vn
+tex/vnr/dpi1200\vnbx12.pk> <C:\Users\hoang\AppData\Local\MiKTeX\fonts/pk/ljfour
+/vntex/vnr/dpi800\vnbx12.pk>
+Output written on main.pdf (21 pages, 3189525 bytes).
 PDF statistics:
- 702 PDF objects out of 1000 (max. 8388607)
+ 799 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

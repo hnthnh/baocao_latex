@@ -1,29 +1,43 @@
-
-\fontsize{16}{20}\selectfont
-\section*{CHƯƠNG 2: TỔNG QUAN}
-\addcontentsline{toc}{section}{CHƯƠNG 2: TỔNG QUAN}
-\fontsize{14}{20}\selectfont
-\setcounter{section}{2}
-\subsection{Hoạt động thuê phòng – trả phòng}
-\fontsize{13}{13}\selectfont
-\begin{itemize}
-
-    \item[-] KH khi có nhu cầu thuê phòng sẽ báo với lễ tân. Sau khi kiểm tra phòng trống theo yêu cầu của KH, lễ tân thực hiện thao tác lập hóa đơn bao gồm thu thập các thông tin như họ tên KH, mail, sdt để tạo mã số KH và điền vào hóa đơn theo mẫu có sẵn. Có thể bổ sung các dịch vụ cần sử dụng trong quá trình lập hóa đơn cũng như sau khi đã xuất hóa đơn. 
-    \item[-] Lễ tân cập nhật các hóa đơn đã lập thành công vào hệ thống. Hệ thống xác nhận và cập nhật tình trạng phòng trống để hiển thị ra danh sách phòng. Tiến hành thủ tục check-in và nhận thanh toán bằng tiện mặt hoặc chuyển khoản.
-    \item[-]Khi thực hiện thủ tục check-out trả phòng, lễ tân kiểm tra lại tình trạng thanh toán của hóa đơn, cập nhật lại tình trạng phòng trống cho lần thuê sau.
-    \item[-]Thông tin KH cần được lưu trữ cho lần thuê phòng tiếp theo.
-    \item[-]Trường hợp KH gọi dt để đặt phòng, có thể dùng lại quy trình này để đặt phòng cho KH.
+\begin{flushleft}
+    \fontsize{16}{20}\selectfont
+    \section*{CHƯƠNG 2: TỔNG QUAN}
+    \addcontentsline{toc}{section}{CHƯƠNG 2: TỔNG QUAN}
+    \fontsize{13}{20}\selectfont
+    \paragraph{}
+    \fontsize{13}{20}\selectfont Trong quá trình thực tập tại công ty, em đã được giao dự án về phát triển phần mềm sử dụng YOLO và OpenCV để xác định và đưa ra cảnh báo đối với các đối tượng là con người trong một khu vực cụ thể.\\
+    \setcounter{section}{2}
+    \setcounter{subsection}{0}
+    \subsection{Vấn Đề Đặt Ra}
+    \fontsize{13}{20}\selectfont Vấn đề được đặt ra là phải làm sao để có thể xác định được chủ thể con người trong camera (Camera an ninh, điện thoại,...) và xác nhận xem chủ thể có ở trong khu vực được đánh dấu là an toàn hay không, vấn đề này có thể được áp dụng vào các tình huống trong đời sống hàng ngày cũng như trong doanh nghiệp, sản xuất:\\ 
+    \begin{itemize}
+        \item Trong gia đình: \\
+        Bài toán này có thể giúp phụ huynh có thể trông con em mình, ví dụ như thông qua camera giám sát và các điểm thiết lập đã được cài đặt sẵn,phụ huynh có thể giám sát được xem là trẻ có đang trong khu vực an toàn hay không,...
+        \begin{figure}[htbp]
+            \centering
+            \includegraphics[width=0.5\textwidth]{images/TH1.jpg}
+            \caption{Trong trường hợp gia đình.}
+            \label{fig:img_1_GD}
+        \end{figure}
+        \item Trong văn phòng:\\
+        Trong văn phòng, có thể giám sát xem, nhân viên có đang làm việc trong khu vực chỉ định hay không,...
+        \begin{figure}[htbp]
+            \centering
+            \includegraphics[width=0.5\textwidth]{images/TH2.jpg}
+            \caption{Trong trường hợp văn phòng.}
+            \label{fig:img_2_VP}
+        \end{figure}
+        \item Trong sản xuất:\\
+        Trong sản xuất, việc các công nhân có làm đúng được vị trí của mình được phân công hay không,...
+        \begin{figure}[htbp]
+            \centering
+            \includegraphics[width=0.5\textwidth]{images/TH3.jpg}
+            \caption{Trong trường hợp xí nghiệp.}
+            \label{fig:img_3_XN}
+        \end{figure}
+    \end{itemize}
     
-\end{itemize}
 
-\fontsize{14}{20}\selectfont
-\subsection{Đăng kí sử dụng dịch vụ}
-\fontsize{13}{20}\selectfont
-\paragraph{}
-KH có thể lựa chọn dịch vụ theo nhu cầu trong thời gian lập hóa đơn hoặc trong thời gian sử dụng phòng. Nếu KH chọn sử dụng dịch vụ trong lúc lập hóa đơn, hóa đơn dịch vụ sẽ tính chung với hóa đơn phòng. Nếu KH muốn sử dụng thêm dịch vụ trong thời gian sử dụng phòng, lễ tân sẽ cập nhật hóa đơn dịch vụ của KH đó, xác định số nợ chưa thanh toán trước, cộng dồn với số dịch vụ vừa đăng kí thêm và in ra hóa đơn dịch vụ.
-
-\fontsize{14}{20}\selectfont
-\subsection{Lập báo cáo:}
-\fontsize{13}{20}\selectfont
-\paragraph{}
-KH có thể lựa chọn dịch vụ theo nhu cầu trong thời gian lập hóa đơn hoặc trong thời gian sử dụng phòng. Nếu KH chọn sử dụng dịch vụ trong lúc lập hóa đơn, hóa đơn dịch vụ sẽ tính chung với hóa đơn phòng. Nếu KH muốn sử dụng thêm dịch vụ trong thời gian sử dụng phòng, lễ tân sẽ cập nhật hóa đơn dịch vụ của KH đó, xác định số nợ chưa thanh toán trước, cộng dồn với số dịch vụ vừa đăng kí thêm và in ra hóa đơn dịch vụ.
+    
+    \subsection{Giải Pháp}
+    \fontsize{13}{13}\selectfont
+\end{flushleft}

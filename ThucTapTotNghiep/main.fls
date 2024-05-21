@@ -217,14 +217,14 @@ INPUT .\cover_page.tex
 INPUT cover_page.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr17.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
-INPUT .\logo.png
-INPUT .\logo.png
-INPUT .\logo.png
-INPUT .\logo.png
+INPUT .\images\logo.png
+INPUT .\images\logo.png
+INPUT .\images\logo.png
+INPUT .\images\logo.png
 OUTPUT main.pdf
-INPUT .\logo.png
-INPUT .\logo.png
-INPUT .\logo.png
+INPUT .\images\logo.png
+INPUT .\images\logo.png
+INPUT .\images\logo.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr17.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
@@ -236,10 +236,10 @@ OUTPUT title_page.aux
 INPUT .\title_page.tex
 INPUT .\title_page.tex
 INPUT title_page.tex
-INPUT .\logo.png
-INPUT .\logo.png
-INPUT .\logo.png
-INPUT .\logo.png
+INPUT .\images\logo.png
+INPUT .\images\logo.png
+INPUT .\images\logo.png
+INPUT .\images\logo.png
 INPUT .\camdoan_page.tex
 INPUT .\camdoan_page.tex
 OUTPUT camdoan_page.aux
@@ -292,12 +292,35 @@ INPUT .\images\logo_luna_nexus.png
 INPUT .\images\logo_luna_nexus.png
 INPUT .\images\logo_luna_nexus.png
 INPUT .\images\logo_luna_nexus.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
 INPUT .\chapter2.tex
 INPUT .\chapter2.tex
 OUTPUT chapter2.aux
 INPUT .\chapter2.tex
 INPUT .\chapter2.tex
 INPUT chapter2.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT .\images\TH1.jpg
+INPUT .\images\TH1.jpg
+INPUT .\images\TH1.jpg
+INPUT .\images\TH1.jpg
+INPUT .\images\TH1.jpg
+INPUT .\images\TH1.jpg
+INPUT .\images\TH1.jpg
+INPUT .\images\TH2.jpg
+INPUT .\images\TH2.jpg
+INPUT .\images\TH2.jpg
+INPUT .\images\TH2.jpg
+INPUT .\images\TH2.jpg
+INPUT .\images\TH2.jpg
+INPUT .\images\TH2.jpg
+INPUT .\images\TH3.jpg
+INPUT .\images\TH3.jpg
+INPUT .\images\TH3.jpg
+INPUT .\images\TH3.jpg
+INPUT .\images\TH3.jpg
+INPUT .\images\TH3.jpg
+INPUT .\images\TH3.jpg
 INPUT .\chapter3.tex
 INPUT .\chapter3.tex
 OUTPUT chapter3.aux
@@ -329,6 +352,10 @@ INPUT chapter2.aux
 INPUT .\chapter3.aux
 INPUT .\chapter3.aux
 INPUT chapter3.aux
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi700\vnbx12.pk
+INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi700\vnbx12.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx10.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx10.pk
 INPUT C:\Users\hoang\AppData\Local\MiKTeX\fonts\pk\ljfour\vntex\vnr\dpi600\vnbx12.pk
