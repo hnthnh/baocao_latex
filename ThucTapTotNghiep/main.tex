@@ -1,26 +1,31 @@
 \documentclass{article}
-\usepackage[utf8]{vietnam}
+\usepackage[utf8]{inputenc}  % To handle UTF-8 encoding
+\usepackage[vietnamese]{babel}  % To handle Vietnamese text
 \usepackage{graphicx}
 \usepackage{setspace}
 \usepackage{fancyhdr}
 \usepackage{pifont}
 \usepackage{tikz}
+\usepackage{newtxtext, newtxmath}
 \usepackage{tocloft}   % For \addcontentsline
 \usepackage[left=3cm,right=2cm,top=2cm,bottom=2cm]{geometry}
-\graphicspath{ {./images/} }
+
+\graphicspath{{./images/}}
+
 \makeatletter
 \renewcommand{\tableofcontents}{%
-	\@starttoc{toc}%
+    \@starttoc{toc}%
 }
 \makeatother
+
 \begin{document}
-\include{cover_page}	
+\onehalfspacing
+\include{cover_page}    
 \include{title_page}
 \include{camdoan_page}
 \include{camon_page}
 \include{mucluc_page}
 \include{chapter1}
 \include{chapter2}
-\include{chapter3}	
-
+\include{chapter3}
 \end{document}
