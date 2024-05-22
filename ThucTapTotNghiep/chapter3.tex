@@ -8,6 +8,12 @@
     \subsection{Giới thiệu về YOLO}
     \fontsize{13}{20}\selectfont\paragraph{}
     YOLO (You Only Look Once) là một trong những thuật toán hàng đầu trong việc nhận diện vật thể. Thuật toán này nổi bật nhờ vào khả năng thực hiện nhận diện rất nhanh chóng và hiệu quả, ngay cả trên những tập dữ liệu lớn và phức tạp. Ý tưởng chính của YOLO là biến bài toán nhận diện vật thể thành một bài toán hồi quy duy nhất, thay vì tiếp cận từng bước như các phương pháp truyền thống.\\
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.5\textwidth]{images/logoYOLO.jpg}
+        \caption{Logo YOLOv5}
+        \label{fig:logo_YOLO}
+    \end{figure}
     \textbf{Nguyên Lý Hoạt Động của YOLO:}\\
     \begin{itemize}
             \item Phân Chia Ảnh: \\Ảnh đầu vào được chia thành một lưới SxS
@@ -46,11 +52,45 @@
         \item Thương Mại Điện Tử: Tự động gán nhãn sản phẩm và quản lý kho hàng.
     \end{itemize}
     YOLOv5 không chỉ tiếp tục di sản của dòng YOLO mà còn mở rộng khả năng của nó, đem lại những tiến bộ vượt bậc trong lĩnh vực nhận diện vật thể. Với sự phát triển liên tục, YOLOv5 hứa hẹn sẽ tiếp tục là công cụ mạnh mẽ và hữu ích cho các ứng dụng trong tương lai.
-
-
-
-
-
+    \subsection{Giới thiệu về OpenCV}
+    OpenCV (Open Source Computer Vision Library) là một thư viện mã nguồn mở mạnh mẽ, được thiết kế để cung cấp các công cụ và giải thuật cho xử lý ảnh và thị giác máy tính. Được phát triển bởi Intel vào năm 1999, OpenCV nhanh chóng trở thành một trong những thư viện phổ biến nhất trong lĩnh vực xử lý ảnh và thị giác máy tính, nhờ tính linh hoạt, hiệu suất cao và khả năng hỗ trợ đa nền tảng.\\
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.5\textwidth]{images/logoOpenCV.png}
+        \caption{Logo OpenCV}
+        \label{fig:logo_cv2}
+    \end{figure}
+    \subsubsection{Các Đặc Điểm Nổi Bật của OpenCV}
+    \begin{itemize}
+        \item Đa Nền Tảng: Hỗ trợ Windows, Linux, macOS, Android và iOS.
+        \item Hỗ Trợ Ngôn Ngữ Đa Dạng: Python, C++, Java và nhiều ngôn ngữ lập trình khác.
+        \item Thư Viện Đa Dạng: Cung cấp hơn 2500 thuật toán và hàm xử lý ảnh, bao gồm nhận diện khuôn mặt, phát hiện chuyển động, phân đoạn ảnh, và nhiều hơn nữa.
+        \item Hiệu Suất Cao: Được tối ưu hóa cao để sử dụng các phần cứng như CPU và GPU.
+    \end{itemize}
+    \subsubsection{Vẽ với OpenCV}
+    OpenCV cung cấp nhiều hàm vẽ cơ bản để tạo và xử lý các hình ảnh. Các hàm vẽ này bao gồm vẽ đường thẳng, hình chữ nhật, hình tròn, đa giác và thêm văn bản lên ảnh.\\
+    \begin{itemize}
+        \item cv2.line(): Vẽ đường thẳng.
+        \item cv2.rectangle(): Vẽ hình chữ nhật.
+        \item cv2.circle(): Vẽ hình tròn.
+        \item cv2.ellipse(): Vẽ hình ellipse.
+        \item cv2.polylines(): Vẽ đa giác.
+        \item cv2.putText(): Thêm văn bản lên ảnh.
+    \end{itemize}
+    \subsubsection{Các Bước Thao Tác với Camera}
+    \begin{itemize}
+        \item Mở Camera: Sử dụng cv2.VideoCapture() để mở camera.
+        \item Đọc Khung Hình: Sử dụng cap.read() để đọc từng khung hình từ camera.
+        \item Thị Khung Hình: Sử dụng cv2.imshow() để hiển thị khung hình.
+        \item Lý Khung Hình: Áp dụng các thuật toán xử lý ảnh lên từng khung hình.
+        \item Video: Sử dụng cv2.VideoWriter() để lưu lại video nếu cần.
+    \end{itemize}
+    \subsubsection{Ứng Dụng của OpenCV}
+    OpenCV được sử dụng rộng rãi trong nhiều lĩnh vực khác nhau: \\
+    Giám Sát An Ninh: Phát hiện chuyển động, nhận diện khuôn mặt.
+    Y Tế: Phân tích hình ảnh y tế, nhận diện bệnh lý.
+    Giao Thông: Phân tích lưu lượng giao thông, nhận diện biển số xe.
+    Thương Mại Điện Tử: Quản lý kho hàng, phân loại sản phẩm.
 
 
 \end{flushleft}
