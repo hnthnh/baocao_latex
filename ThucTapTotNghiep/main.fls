@@ -245,6 +245,9 @@ INPUT camon_page.aux
 INPUT .\mucluc_page.aux
 INPUT .\mucluc_page.aux
 INPUT mucluc_page.aux
+INPUT .\fig_page.aux
+INPUT .\fig_page.aux
+INPUT fig_page.aux
 INPUT .\chapter1.aux
 INPUT .\chapter1.aux
 INPUT chapter1.aux
@@ -363,6 +366,16 @@ INPUT E:\Software\MiKTeX\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT E:\Software\MiKTeX\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT E:\Software\MiKTeX\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 OUTPUT main.toc
+INPUT .\fig_page.tex
+INPUT .\fig_page.tex
+OUTPUT fig_page.aux
+INPUT .\fig_page.tex
+INPUT .\fig_page.tex
+INPUT fig_page.tex
+INPUT .\main.lof
+INPUT .\main.lof
+INPUT main.lof
+OUTPUT main.lof
 INPUT .\chapter1.tex
 INPUT .\chapter1.tex
 OUTPUT chapter1.aux
@@ -445,6 +458,9 @@ INPUT camon_page.aux
 INPUT .\mucluc_page.aux
 INPUT .\mucluc_page.aux
 INPUT mucluc_page.aux
+INPUT .\fig_page.aux
+INPUT .\fig_page.aux
+INPUT fig_page.aux
 INPUT .\chapter1.aux
 INPUT .\chapter1.aux
 INPUT chapter1.aux
