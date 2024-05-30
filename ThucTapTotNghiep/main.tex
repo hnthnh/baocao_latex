@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[14pt]{article}
 \usepackage[utf8]{inputenc}  % To handle UTF-8 encoding
 \usepackage[vietnamese]{babel}  % To handle Vietnamese text
 \usepackage{graphicx}
@@ -6,11 +6,21 @@
 \usepackage{fancyhdr}
 \usepackage{pifont}
 \usepackage{tikz}
-\usepackage{newtxtext, newtxmath}
+\usepackage{mathptmx}
+\usepackage{titlesec}
 \usepackage{tocloft}   % For \addcontentsline
 \usepackage[left=3cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 
 \graphicspath{{./images/}}
+% Điều chỉnh kích thước font cho \subsection
+\titleformat{\subsection}
+  {\normalfont\fontsize{14}{15}\selectfont\bfseries} % 12pt font size, 15pt line spacing, in bold
+  {\thesubsection}{1em}{}
+
+% Điều chỉnh kích thước font cho \subsubsection
+\titleformat{\subsubsection}
+  {\normalfont\fontsize{14}{13}\selectfont\bfseries} % 10pt font size, 13pt line spacing, in bold
+  {\thesubsubsection}{1em}{}
 
 \makeatletter
 \renewcommand{\tableofcontents}{%

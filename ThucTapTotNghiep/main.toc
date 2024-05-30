@@ -18,12 +18,12 @@
 \contentsline {paragraph}{}{3}{}%
 \contentsline {paragraph}{}{3}{}%
 \contentsline {paragraph}{}{3}{}%
-\contentsline {paragraph}{}{4}{}%
+\contentsline {paragraph}{}{3}{}%
 \contentsline {paragraph}{}{4}{}%
 \contentsline {subsubsection}{\numberline {1.1.3}Tình hình hoạt động kinh doanh của doanh nghiệp}{4}{}%
 \contentsline {subsubsection}{\numberline {1.1.4}Thông tin về vị trí sinh viên tham gia thực tập}{5}{}%
 \contentsline {paragraph}{}{5}{}%
-\contentsline {section}{CHƯƠNG 2: TỔNG QUAN}{7}{}%
+\contentsline {section}{CHƯƠNG 2: PHÂN TÍCH THỰC TRẠNG CỦA VẤN ĐỀ CÓ LIÊN QUAN ĐẾN ĐỀ TÀI MÀ SINH VIÊN CHỌN VIẾT BÁO CÁO THỰC TẬP TẠI DOANH NGHIỆP THỰC TẬP}{7}{}%
 \contentsline {paragraph}{}{7}{}%
 \contentsline {subsection}{\numberline {2.1}Vấn Đề Đặt Ra}{7}{}%
 \contentsline {subsection}{\numberline {2.2}Giải Pháp}{8}{}%
@@ -32,11 +32,11 @@
 \contentsline {subsection}{\numberline {3.1}Giới thiệu về YOLO}{9}{}%
 \contentsline {paragraph}{}{9}{}%
 \contentsline {subsubsection}{\numberline {3.1.1}Các Đặc Điểm Nổi Bật của YOLOv5:}{10}{}%
-\contentsline {subsubsection}{\numberline {3.1.2}Quá Trình Hoạt Động của YOLOv5}{11}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Quá Trình Hoạt Động của YOLOv5}{10}{}%
 \contentsline {subsubsection}{\numberline {3.1.3}Cải tiến và hiệu năng}{11}{}%
 \contentsline {subsubsection}{\numberline {3.1.4}Ứng Dụng của YOLOv5}{11}{}%
 \contentsline {subsection}{\numberline {3.2}Giới thiệu về OpenCV}{12}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Các Đặc Điểm Nổi Bật của OpenCV}{13}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Các Đặc Điểm Nổi Bật của OpenCV}{12}{}%
 \contentsline {subsubsection}{\numberline {3.2.2}Vẽ với OpenCV}{13}{}%
 \contentsline {subsubsection}{\numberline {3.2.3}Các Bước Thao Tác với Camera}{13}{}%
 \contentsline {subsubsection}{\numberline {3.2.4}Ứng Dụng của OpenCV}{14}{}%
