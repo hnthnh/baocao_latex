@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.22)  30 MAY 2024 23:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.22)  31 MAY 2024 00:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -828,7 +828,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count423
 \@quotereset=\count424
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 41.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 45.
 (E:\Software\MiKTeX\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -843,26 +843,26 @@ File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
 ) (title_page.aux) (camdoan_page.aux) (camon_page.aux) (mucluc_page.aux) (fig_page.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux) (ketluan_page.aux) (cirtiation_page.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 41.
-LaTeX Font Info:    Trying to load font information for T5+cmr on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 45.
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 45.
  (E:\Software\MiKTeX\MiKTeX\tex/latex/vntex\t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    ... okay on input line 45.
  (E:\Software\MiKTeX\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count425
@@ -888,7 +888,7 @@ Package biblatex Info: ... file 'vietnamese.lbx' not found.
 
 
 Package biblatex Warning: Language 'vietnamese' not supported.
-(biblatex)                Using dummy definitions on input line 41.
+(biblatex)                Using dummy definitions on input line 45.
 
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -898,8 +898,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 (main.bbl)
-Package biblatex Info: Reference section=0 on input line 41.
-Package biblatex Info: Reference segment=0 on input line 41.
+Package biblatex Info: Reference section=0 on input line 45.
+Package biblatex Info: Reference segment=0 on input line 45.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1025,7 +1025,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.80008> not available
 <images/logo_luna_nexus.png, id=29, 235.88126pt x 66.2475pt>
 File: images/logo_luna_nexus.png Graphic file (type png)
 <use images/logo_luna_nexus.png>
-Package pdftex.def Info: images/logo_luna_nexus.png  used on input line 28.
+Package pdftex.def Info: images/logo_luna_nexus.png  used on input line 31.
 (pdftex.def)             Requested size: 236.01561pt x 66.28674pt.
  [2
 
@@ -1035,53 +1035,53 @@ Package pdftex.def Info: images/logo_luna_nexus.png  used on input line 28.
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 15.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 29.
  (E:\Software\MiKTeX\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 <images/TH1.jpg, id=47, 903.375pt x 451.6875pt>
 File: images/TH1.jpg Graphic file (type jpg)
 <use images/TH1.jpg>
-Package pdftex.def Info: images/TH1.jpg  used on input line 19.
+Package pdftex.def Info: images/TH1.jpg  used on input line 33.
 (pdftex.def)             Requested size: 236.01561pt x 118.00803pt.
 <images/TH2.jpg, id=48, 444.15938pt x 302.63063pt>
 File: images/TH2.jpg Graphic file (type jpg)
 <use images/TH2.jpg>
-Package pdftex.def Info: images/TH2.jpg  used on input line 27.
+Package pdftex.def Info: images/TH2.jpg  used on input line 41.
 (pdftex.def)             Requested size: 236.01561pt x 160.80907pt.
  [7
 
 
 
-{E:/Software/MiKTeX/MiKTeX/fonts/enc/dvips/base/8r.enc} <./images/TH1.jpg>]
+{E:/Software/MiKTeX/MiKTeX/fonts/enc/dvips/base/8r.enc}]
 <images/TH3.jpg, id=53, 2636.34938pt x 1977.63844pt>
 File: images/TH3.jpg Graphic file (type jpg)
 <use images/TH3.jpg>
-Package pdftex.def Info: images/TH3.jpg  used on input line 35.
+Package pdftex.def Info: images/TH3.jpg  used on input line 49.
 (pdftex.def)             Requested size: 236.01561pt x 177.04431pt.
-) [8 <./images/TH2.jpg> <./images/TH3.jpg>]
+) [8 <./images/TH1.jpg> <./images/TH2.jpg>] [9 <./images/TH3.jpg>]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
-<images/YOLO.jpg, id=58, 475.7775pt x 251.94125pt>
+<images/YOLO.jpg, id=61, 475.7775pt x 251.94125pt>
 File: images/YOLO.jpg Graphic file (type jpg)
 <use images/YOLO.jpg>
 Package pdftex.def Info: images/YOLO.jpg  used on input line 13.
 (pdftex.def)             Requested size: 94.4048pt x 49.98753pt.
- [9
+ [10
 
 
 
- <./images/YOLO.jpg>] [10] [11]
-<images/OIP.jpg, id=68, 475.7775pt x 585.18625pt>
+ <./images/YOLO.jpg>] [11] [12]
+<images/OIP.jpg, id=71, 475.7775pt x 585.18625pt>
 File: images/OIP.jpg Graphic file (type jpg)
 <use images/OIP.jpg>
 Package pdftex.def Info: images/OIP.jpg  used on input line 58.
 (pdftex.def)             Requested size: 94.4048pt x 116.10654pt.
- [12 <./images/OIP.jpg>]) [13]
+ [13 <./images/OIP.jpg>]) [14]
 \openout2 = `ketluan_page.aux'.
 
- (ketluan_page.tex) [14
+ (ketluan_page.tex) [15
 
 
 
@@ -1092,7 +1092,7 @@ Package pdftex.def Info: images/OIP.jpg  used on input line 58.
 
 LaTeX Warning: Empty bibliography on input line 7.
 
-) [15
+) [16
 
 
 
@@ -1108,15 +1108,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  22437 strings out of 474369
  448674 string characters out of 5749428
- 1936754 words of memory out of 5000000
+ 1938754 words of memory out of 5000000
  44395 multiletter control sequences out of 15000+600000
  600913 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,93p,1160b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,93p,1160b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <E:/Software/MiKTeX/MiKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><E:/Software/MiKTeX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><E:/Software/MiKTeX/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><E:/Software/MiKTeX/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on main.pdf (20 pages, 3045447 bytes).
+Output written on main.pdf (21 pages, 3046820 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
