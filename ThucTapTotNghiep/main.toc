@@ -37,6 +37,8 @@
 \contentsline {subsubsection}{\numberline {3.1.4}Ứng Dụng của YOLOv5}{11}{}%
 \contentsline {subsection}{\numberline {3.2}Giới thiệu về OpenCV}{12}{}%
 \contentsline {subsubsection}{\numberline {3.2.1}Các Đặc Điểm Nổi Bật của OpenCV}{12}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}Vẽ với OpenCV}{13}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Vẽ với OpenCV}{12}{}%
 \contentsline {subsubsection}{\numberline {3.2.3}Các Bước Thao Tác với Camera}{13}{}%
-\contentsline {subsubsection}{\numberline {3.2.4}Ứng Dụng của OpenCV}{14}{}%
+\contentsline {subsubsection}{\numberline {3.2.4}Ứng Dụng của OpenCV}{13}{}%
+\contentsline {section}{KẾT LUẬN}{14}{}%
+\contentsline {section}{TÀI LIỆU THAM KHẢO}{15}{}%

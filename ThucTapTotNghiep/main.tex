@@ -8,8 +8,14 @@
 \usepackage{tikz}
 \usepackage{mathptmx}
 \usepackage{titlesec}
+\usepackage[backend=biber,style=ieee]{biblatex}
+\addbibresource{references.bib}  % Thêm tệp .bib chứa các nguồn tham khảo của bạn
 \usepackage{tocloft}   % For \addcontentsline
 \usepackage[left=3cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{setspace}
+\setstretch{1.5}
+% 
+\renewcommand{\baselinestretch}{1.5}
 
 \graphicspath{{./images/}}
 % Điều chỉnh kích thước font cho \subsection
@@ -43,4 +49,6 @@
 \include{chapter1}
 \include{chapter2}
 \include{chapter3}
+\include{ketluan_page}
+\include{cirtiation_page}
 \end{document}
