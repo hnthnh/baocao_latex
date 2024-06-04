@@ -8,30 +8,33 @@
 \contentsline {paragraph}{}{i}{}%
 \contentsline {section}{LỜI CẢM ƠN}{1}{}%
 \contentsline {section}{CHƯƠNG 1: GIỚI THIỆU CHUNG ĐƠN VỊ THỰC TẬP }{2}{}%
-\contentsline {subsection}{\numberline {1.1}Thông tin về đơn vị thực tập }{2}{}%
-\contentsline {subsubsection}{\numberline {1.1.1}Sơ lược về sự hình thành và phát triển của đơn vị}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Sơ lược về sự hình thành và phát triển của đơn vị}{2}{}%
 \contentsline {paragraph}{}{2}{}%
 \contentsline {paragraph}{}{2}{}%
 \contentsline {paragraph}{}{2}{}%
+\contentsline {paragraph}{}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Tổ chức và các lĩnh vực hoạt động của đơn vị}{2}{}%
+\contentsline {paragraph}{}{2}{}%
 \contentsline {paragraph}{}{3}{}%
-\contentsline {subsubsection}{\numberline {1.1.2}Tổ chức và các lĩnh vực hoạt động của đơn vị}{3}{}%
 \contentsline {paragraph}{}{3}{}%
 \contentsline {paragraph}{}{3}{}%
 \contentsline {paragraph}{}{3}{}%
-\contentsline {paragraph}{}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Tình hình hoạt động kinh doanh của doanh nghiệp}{3}{}%
+\contentsline {subsection}{\numberline {1.4}Thông tin về vị trí sinh viên tham gia thực tập}{4}{}%
 \contentsline {paragraph}{}{4}{}%
-\contentsline {subsubsection}{\numberline {1.1.3}Tình hình hoạt động kinh doanh của doanh nghiệp}{4}{}%
-\contentsline {subsubsection}{\numberline {1.1.4}Thông tin về vị trí sinh viên tham gia thực tập}{5}{}%
-\contentsline {paragraph}{}{5}{}%
-\contentsline {section}{CHƯƠNG 2: PHÂN TÍCH THỰC TRẠNG CỦA VẤN ĐỀ CÓ LIÊN QUAN ĐẾN ĐỀ TÀI MÀ SINH VIÊN CHỌN VIẾT BÁO CÁO THỰC TẬP TẠI DOANH NGHIỆP THỰC TẬP}{7}{}%
-\contentsline {paragraph}{}{7}{}%
-\contentsline {subsection}{\numberline {2.1}Giải Pháp}{7}{}%
-\contentsline {paragraph}{}{7}{}%
-\contentsline {subsection}{\numberline {2.2}Phân tích đánh giá tình hình thực tế theo chủ đề thực tập tại đơn vị}{7}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}Vấn Đề Đặt Ra}{7}{}%
+\contentsline {section}{CHƯƠNG 2: PHÂN TÍCH THỰC TRẠNG CỦA VẤN ĐỀ CÓ LIÊN QUAN ĐẾN ĐỀ TÀI MÀ SINH VIÊN CHỌN VIẾT BÁO CÁO THỰC TẬP TẠI DOANH NGHIỆP THỰC TẬP}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Giải Pháp}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Phân tích đánh giá tình hình thực tế theo chủ đề thực tập tại đơn vị}{6}{}%
 \contentsline {subsection}{\numberline {2.3}Ưu điểm, hạn chế của vấn đề phân tích nêu trên}{8}{}%
-\contentsline {subsection}{\numberline {2.4}Tiến độ thực hiện công việc}{8}{}%
-\contentsline {subsection}{\numberline {2.5}Sơ lược các kỹ thuật, công nghệ liên quan đến các nội dung đã trình bày}{8}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Ưu điểm}{8}{}%
+\contentsline {paragraph}{}{8}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Hạn chế}{8}{}%
+\contentsline {paragraph}{}{8}{}%
+\contentsline {subsection}{\numberline {2.4}Tiến độ thực hiện công việc}{9}{}%
+\contentsline {subsection}{\numberline {2.5}Sơ lược các kỹ thuật, công nghệ liên quan đến các nội dung đã trình bày}{9}{}%
 \contentsline {section}{CHƯƠNG 3: NHẬN XÉT, ĐÁNH GIÁ THỰC TRẠNG}{10}{}%
 \contentsline {subsection}{\numberline {3.1}Giới thiệu về YOLO}{10}{}%
 \contentsline {paragraph}{}{10}{}%
